@@ -1,0 +1,806 @@
+[
+  {
+    "id": "IND-001",
+    "name": "Induna Mwamba",
+    "title": "Induna",
+    "chiefdom": "Sub-Chief Chongwe",
+    "specializedArea": "Land Administration",
+    "responsibilities": "Oversees land administration matters in the chiefdom",
+    "assignedHeadmen": [
+      "Mr. James Chanda",
+      "Mr. Patrick Zulu",
+      "Mrs. Faith Siame",
+      "Mrs. Alice Mwansa"
+    ],
+    "jurisdictionVillages": [
+      "Chibombo",
+      "Meanwood",
+      "Makeni",
+      "Chongwe Central",
+      "Chipapa",
+      "Kanakantapa",
+      "Mwembezhi",
+      "Chisamba",
+      "Kafue Riverside",
+      "Chalimbana",
+      "Isoka",
+      "Munyumba"
+    ],
+    "jurisdictionSizeHectares": 44920,
+    "populationCovered": 26931,
+    "appointedDate": "2017-11-20T14:32:54.706858",
+    "yearsInService": 4,
+    "contactPhone": "+2609652913803",
+    "traditionalClan": "Elephant",
+    "status": "Active",
+    "keyDuties": [
+      "Advise chief on land administration",
+      "Supervise assigned headmen",
+      "Resolve escalated disputes",
+      "Monitor development projects"
+    ],
+    "casesHandledPerMonth": 26,
+    "meetingsAttendedPerMonth": 11
+  },
+  {
+    "id": "IND-002",
+    "name": "Induna Kazembe",
+    "title": "Induna",
+    "chiefdom": "Chieftainess Nkomesha",
+    "specializedArea": "Justice & Disputes",
+    "responsibilities": "Oversees justice & disputes matters in the chiefdom",
+    "assignedHeadmen": [
+      "Mrs. Alice Mwansa",
+      "Mrs. Elizabeth Mutale",
+      "Mrs. Sarah Mumba"
+    ],
+    "jurisdictionVillages": [
+      "Mbala",
+      "Mutumbi",
+      "Luangwa",
+      "Chongwe Central",
+      "Luwingu",
+      "Mumbwa",
+      "Nakatindi",
+      "Kawambwa",
+      "Mbabala"
+    ],
+    "jurisdictionSizeHectares": 29018,
+    "populationCovered": 26978,
+    "appointedDate": "2021-06-19T14:32:54.706901",
+    "yearsInService": 24,
+    "contactPhone": "+2609702295275",
+    "traditionalClan": "Elephant",
+    "status": "Active",
+    "keyDuties": [
+      "Advise chief on justice & disputes",
+      "Supervise assigned headmen",
+      "Resolve escalated disputes",
+      "Monitor development projects"
+    ],
+    "casesHandledPerMonth": 12,
+    "meetingsAttendedPerMonth": 8
+  },
+  {
+    "id": "IND-003",
+    "name": "Induna Nkandu",
+    "title": "Induna",
+    "chiefdom": "Chieftainess Nkomesha",
+    "specializedArea": "Cultural Affairs",
+    "responsibilities": "Oversees cultural affairs matters in the chiefdom",
+    "assignedHeadmen": [
+      "Mr. John Banda",
+      "Mr. Patrick Zulu",
+      "Mr. Michael Nyirenda",
+      "Mrs. Mary Phiri",
+      "Mr. Daniel Sakala",
+      "Mrs. Ruth Moyo",
+      "Mr. Joseph Lungu"
+    ],
+    "jurisdictionVillages": [
+      "Chibombo",
+      "Munyumba",
+      "Shimabala",
+      "Kapiri",
+      "Nyimba",
+      "Isoka",
+      "Mutumbi"
+    ],
+    "jurisdictionSizeHectares": 20527,
+    "populationCovered": 29600,
+    "appointedDate": "2010-09-20T14:32:54.706923",
+    "yearsInService": 17,
+    "contactPhone": "+2609671143125",
+    "traditionalClan": "Fish Eagle",
+    "status": "Active",
+    "keyDuties": [
+      "Advise chief on cultural affairs",
+      "Supervise assigned headmen",
+      "Resolve escalated disputes",
+      "Monitor development projects"
+    ],
+    "casesHandledPerMonth": 29,
+    "meetingsAttendedPerMonth": 9
+  },
+  {
+    "id": "IND-004",
+    "name": "Induna Chalwe",
+    "title": "Induna",
+    "chiefdom": "Sub-Chief Kafue",
+    "specializedArea": "Development & Projects",
+    "responsibilities": "Oversees development & projects matters in the chiefdom",
+    "assignedHeadmen": [
+      "Mrs. Elizabeth Mutale",
+      "Mr. David Mwale",
+      "Mrs. Ruth Moyo",
+      "Mrs. Alice Mwansa",
+      "Mr. Daniel Sakala",
+      "Mrs. Mary Phiri"
+    ],
+    "jurisdictionVillages": [
+      "Samfya",
+      "Nakonde",
+      "Ngwerere",
+      "Isoka",
+      "Mufumbwe"
+    ],
+    "jurisdictionSizeHectares": 15903,
+    "populationCovered": 26114,
+    "appointedDate": "2015-01-02T14:32:54.706940",
+    "yearsInService": 25,
+    "contactPhone": "+2609715108732",
+    "traditionalClan": "Elephant",
+    "status": "Active",
+    "keyDuties": [
+      "Advise chief on development & projects",
+      "Supervise assigned headmen",
+      "Resolve escalated disputes",
+      "Monitor development projects"
+    ],
+    "casesHandledPerMonth": 20,
+    "meetingsAttendedPerMonth": 12
+  },
+  {
+    "id": "IND-005",
+    "name": "Induna Mulenga",
+    "title": "Induna",
+    "chiefdom": "Chieftainess Nkomesha",
+    "specializedArea": "Health & Welfare",
+    "responsibilities": "Oversees health & welfare matters in the chiefdom",
+    "assignedHeadmen": [
+      "Mr. George Nkonde",
+      "Mr. James Chanda",
+      "Mr. Joseph Lungu",
+      "Mr. Michael Nyirenda",
+      "Mrs. Elizabeth Mutale",
+      "Mr. Francis Chipanga",
+      "Mrs. Sarah Mumba",
+      "Mr. Daniel Sakala"
+    ],
+    "jurisdictionVillages": [
+      "Leopards Hill",
+      "Chalimbana",
+      "Ngwerere",
+      "Palabana",
+      "Isoka",
+      "Chilanga",
+      "Mumbwa",
+      "Kaunga",
+      "Chainda",
+      "Kabwe",
+      "Makeni"
+    ],
+    "jurisdictionSizeHectares": 30532,
+    "populationCovered": 24423,
+    "appointedDate": "2023-08-29T14:32:54.706958",
+    "yearsInService": 24,
+    "contactPhone": "+2609726885565",
+    "traditionalClan": "Fish Eagle",
+    "status": "Active",
+    "keyDuties": [
+      "Advise chief on health & welfare",
+      "Supervise assigned headmen",
+      "Resolve escalated disputes",
+      "Monitor development projects"
+    ],
+    "casesHandledPerMonth": 16,
+    "meetingsAttendedPerMonth": 10
+  },
+  {
+    "id": "IND-006",
+    "name": "Induna Bwalya",
+    "title": "Induna",
+    "chiefdom": "Sub-Chief Kafue",
+    "specializedArea": "Development & Projects",
+    "responsibilities": "Oversees development & projects matters in the chiefdom",
+    "assignedHeadmen": [
+      "Mrs. Ruth Moyo",
+      "Mrs. Sarah Mumba",
+      "Mr. George Nkonde"
+    ],
+    "jurisdictionVillages": [
+      "Munyumba",
+      "Chongwe Central",
+      "Kapiri",
+      "Katoba",
+      "Kanakantapa",
+      "Mkushi",
+      "Chalimbana",
+      "Ngwerere",
+      "Mporokoso",
+      "Lilayi",
+      "Chilanga"
+    ],
+    "jurisdictionSizeHectares": 49086,
+    "populationCovered": 28199,
+    "appointedDate": "2010-05-07T14:32:54.706974",
+    "yearsInService": 2,
+    "contactPhone": "+2609618086784",
+    "traditionalClan": "Crocodile",
+    "status": "Active",
+    "keyDuties": [
+      "Advise chief on development & projects",
+      "Supervise assigned headmen",
+      "Resolve escalated disputes",
+      "Monitor development projects"
+    ],
+    "casesHandledPerMonth": 12,
+    "meetingsAttendedPerMonth": 10
+  },
+  {
+    "id": "IND-007",
+    "name": "Induna Chilufya",
+    "title": "Induna",
+    "chiefdom": "Sub-Chief Kafue",
+    "specializedArea": "Youth & Education",
+    "responsibilities": "Oversees youth & education matters in the chiefdom",
+    "assignedHeadmen": [
+      "Mrs. Grace Tembo",
+      "Mrs. Sarah Mumba",
+      "Mr. John Banda",
+      "Mr. Peter Sikalonga",
+      "Mrs. Elizabeth Mutale",
+      "Mrs. Alice Mwansa",
+      "Mr. Michael Nyirenda",
+      "Mr. Joseph Lungu"
+    ],
+    "jurisdictionVillages": [
+      "Chilanga",
+      "Nakonde",
+      "Mbabala",
+      "Chinsali",
+      "Nchelenge",
+      "Mumbwa",
+      "Chipapa",
+      "Mwembezhi",
+      "Palabana"
+    ],
+    "jurisdictionSizeHectares": 22673,
+    "populationCovered": 28927,
+    "appointedDate": "2011-10-15T14:32:54.706990",
+    "yearsInService": 4,
+    "contactPhone": "+2609676630082",
+    "traditionalClan": "Fish Eagle",
+    "status": "Active",
+    "keyDuties": [
+      "Advise chief on youth & education",
+      "Supervise assigned headmen",
+      "Resolve escalated disputes",
+      "Monitor development projects"
+    ],
+    "casesHandledPerMonth": 11,
+    "meetingsAttendedPerMonth": 6
+  },
+  {
+    "id": "IND-008",
+    "name": "Induna Musonda",
+    "title": "Induna",
+    "chiefdom": "Chieftainess Nkomesha",
+    "specializedArea": "Youth & Education",
+    "responsibilities": "Oversees youth & education matters in the chiefdom",
+    "assignedHeadmen": [
+      "Mrs. Alice Mwansa",
+      "Mrs. Joyce Banda",
+      "Mr. Robert Ngoma",
+      "Mr. David Mwale",
+      "Mr. Michael Nyirenda",
+      "Mr. George Nkonde"
+    ],
+    "jurisdictionVillages": [
+      "Chisamba",
+      "Mbala",
+      "Makeni",
+      "Kafue Riverside",
+      "Mwembezhi",
+      "Chilanga",
+      "Samfya",
+      "Mumbwa"
+    ],
+    "jurisdictionSizeHectares": 39387,
+    "populationCovered": 27151,
+    "appointedDate": "2014-11-05T14:32:54.707006",
+    "yearsInService": 4,
+    "contactPhone": "+2609723251751",
+    "traditionalClan": "Crocodile",
+    "status": "Active",
+    "keyDuties": [
+      "Advise chief on youth & education",
+      "Supervise assigned headmen",
+      "Resolve escalated disputes",
+      "Monitor development projects"
+    ],
+    "casesHandledPerMonth": 10,
+    "meetingsAttendedPerMonth": 10
+  },
+  {
+    "id": "IND-009",
+    "name": "Induna Mwamba",
+    "title": "Induna",
+    "chiefdom": "Sub-Chief Chongwe",
+    "specializedArea": "Health & Welfare",
+    "responsibilities": "Oversees health & welfare matters in the chiefdom",
+    "assignedHeadmen": [
+      "Mr. David Mwale",
+      "Mrs. Ruth Moyo",
+      "Mr. Robert Ngoma",
+      "Mr. George Nkonde",
+      "Mrs. Mary Phiri"
+    ],
+    "jurisdictionVillages": [
+      "Luwingu",
+      "Nyimba",
+      "Katoba",
+      "Nchelenge",
+      "Mpika"
+    ],
+    "jurisdictionSizeHectares": 43459,
+    "populationCovered": 29072,
+    "appointedDate": "2006-01-29T14:32:54.707021",
+    "yearsInService": 16,
+    "contactPhone": "+2609748919614",
+    "traditionalClan": "Lion",
+    "status": "Active",
+    "keyDuties": [
+      "Advise chief on health & welfare",
+      "Supervise assigned headmen",
+      "Resolve escalated disputes",
+      "Monitor development projects"
+    ],
+    "casesHandledPerMonth": 25,
+    "meetingsAttendedPerMonth": 6
+  },
+  {
+    "id": "IND-010",
+    "name": "Induna Kazembe",
+    "title": "Induna",
+    "chiefdom": "Sub-Chief Chongwe",
+    "specializedArea": "Development & Projects",
+    "responsibilities": "Oversees development & projects matters in the chiefdom",
+    "assignedHeadmen": [
+      "Mrs. Elizabeth Mutale",
+      "Mrs. Sarah Mumba",
+      "Mr. Francis Chipanga"
+    ],
+    "jurisdictionVillages": [
+      "Serenje",
+      "Nchelenge",
+      "Lilayi",
+      "Isoka",
+      "Mpika",
+      "Kasama",
+      "Mwembezhi"
+    ],
+    "jurisdictionSizeHectares": 42800,
+    "populationCovered": 15801,
+    "appointedDate": "2020-02-18T14:32:54.707037",
+    "yearsInService": 15,
+    "contactPhone": "+2609771554356",
+    "traditionalClan": "Buffalo",
+    "status": "Active",
+    "keyDuties": [
+      "Advise chief on development & projects",
+      "Supervise assigned headmen",
+      "Resolve escalated disputes",
+      "Monitor development projects"
+    ],
+    "casesHandledPerMonth": 29,
+    "meetingsAttendedPerMonth": 12
+  },
+  {
+    "id": "IND-011",
+    "name": "Induna Nkandu",
+    "title": "Induna",
+    "chiefdom": "Sub-Chief Chongwe",
+    "specializedArea": "Justice & Disputes",
+    "responsibilities": "Oversees justice & disputes matters in the chiefdom",
+    "assignedHeadmen": [
+      "Mr. George Nkonde",
+      "Mr. Robert Ngoma",
+      "Mr. James Chanda",
+      "Mrs. Faith Siame",
+      "Mr. Peter Sikalonga",
+      "Mrs. Joyce Banda"
+    ],
+    "jurisdictionVillages": [
+      "Chilanga",
+      "Kalingalinga",
+      "Mbabala",
+      "Kabwe",
+      "Kafue Riverside",
+      "Kaunga",
+      "Nakatindi",
+      "Chibombo",
+      "Kasama",
+      "Kasempa",
+      "Nchelenge"
+    ],
+    "jurisdictionSizeHectares": 38175,
+    "populationCovered": 11651,
+    "appointedDate": "2008-09-12T14:32:54.707054",
+    "yearsInService": 20,
+    "contactPhone": "+2609638133945",
+    "traditionalClan": "Buffalo",
+    "status": "Active",
+    "keyDuties": [
+      "Advise chief on justice & disputes",
+      "Supervise assigned headmen",
+      "Resolve escalated disputes",
+      "Monitor development projects"
+    ],
+    "casesHandledPerMonth": 20,
+    "meetingsAttendedPerMonth": 5
+  },
+  {
+    "id": "IND-012",
+    "name": "Induna Chalwe",
+    "title": "Induna",
+    "chiefdom": "Sub-Chief Kafue",
+    "specializedArea": "Youth & Education",
+    "responsibilities": "Oversees youth & education matters in the chiefdom",
+    "assignedHeadmen": [
+      "Mr. Francis Chipanga",
+      "Mr. Peter Sikalonga",
+      "Mrs. Joyce Banda",
+      "Mrs. Alice Mwansa"
+    ],
+    "jurisdictionVillages": [
+      "Isoka",
+      "Ngwerere",
+      "Meanwood",
+      "Mutumbi",
+      "Chisamba",
+      "Mbabala",
+      "Kasama",
+      "Makeni"
+    ],
+    "jurisdictionSizeHectares": 20756,
+    "populationCovered": 27486,
+    "appointedDate": "2007-04-23T14:32:54.707069",
+    "yearsInService": 2,
+    "contactPhone": "+2609773711416",
+    "traditionalClan": "Elephant",
+    "status": "Active",
+    "keyDuties": [
+      "Advise chief on youth & education",
+      "Supervise assigned headmen",
+      "Resolve escalated disputes",
+      "Monitor development projects"
+    ],
+    "casesHandledPerMonth": 22,
+    "meetingsAttendedPerMonth": 8
+  },
+  {
+    "id": "IND-013",
+    "name": "Induna Mulenga",
+    "title": "Induna",
+    "chiefdom": "Sub-Chief Kafue",
+    "specializedArea": "Cultural Affairs",
+    "responsibilities": "Oversees cultural affairs matters in the chiefdom",
+    "assignedHeadmen": [
+      "Mr. John Banda",
+      "Mrs. Ruth Moyo",
+      "Mr. Robert Ngoma"
+    ],
+    "jurisdictionVillages": [
+      "Mansa",
+      "Lunsemfwa",
+      "Kaputa",
+      "Mbala",
+      "Mufumbwe",
+      "Nyimba",
+      "Chongwe Central",
+      "Mumbwa",
+      "Chibombo",
+      "Shimabala",
+      "Mwembezhi",
+      "Mpanshya"
+    ],
+    "jurisdictionSizeHectares": 45896,
+    "populationCovered": 27273,
+    "appointedDate": "2009-05-07T14:32:54.707085",
+    "yearsInService": 15,
+    "contactPhone": "+2609755921113",
+    "traditionalClan": "Elephant",
+    "status": "Active",
+    "keyDuties": [
+      "Advise chief on cultural affairs",
+      "Supervise assigned headmen",
+      "Resolve escalated disputes",
+      "Monitor development projects"
+    ],
+    "casesHandledPerMonth": 26,
+    "meetingsAttendedPerMonth": 7
+  },
+  {
+    "id": "IND-014",
+    "name": "Induna Bwalya",
+    "title": "Induna",
+    "chiefdom": "Sub-Chief Kafue",
+    "specializedArea": "Health & Welfare",
+    "responsibilities": "Oversees health & welfare matters in the chiefdom",
+    "assignedHeadmen": [
+      "Mrs. Grace Tembo",
+      "Mr. Peter Sikalonga",
+      "Mr. David Mwale",
+      "Mrs. Sarah Mumba",
+      "Mr. Daniel Sakala",
+      "Mrs. Helen Kalaba",
+      "Mr. George Nkonde"
+    ],
+    "jurisdictionVillages": [
+      "Mbala",
+      "Nchelenge",
+      "Luwingu",
+      "Munyumba",
+      "Serenje",
+      "Samfya",
+      "Lilayi",
+      "Mumbwa",
+      "Sikanze",
+      "Chipapa"
+    ],
+    "jurisdictionSizeHectares": 25287,
+    "populationCovered": 21768,
+    "appointedDate": "2019-11-12T14:32:54.707100",
+    "yearsInService": 8,
+    "contactPhone": "+2609685987485",
+    "traditionalClan": "Lion",
+    "status": "Active",
+    "keyDuties": [
+      "Advise chief on health & welfare",
+      "Supervise assigned headmen",
+      "Resolve escalated disputes",
+      "Monitor development projects"
+    ],
+    "casesHandledPerMonth": 25,
+    "meetingsAttendedPerMonth": 9
+  },
+  {
+    "id": "IND-015",
+    "name": "Induna Chilufya",
+    "title": "Induna",
+    "chiefdom": "Sub-Chief Chongwe",
+    "specializedArea": "Land Administration",
+    "responsibilities": "Oversees land administration matters in the chiefdom",
+    "assignedHeadmen": [
+      "Mrs. Sarah Mumba",
+      "Mrs. Grace Tembo",
+      "Mrs. Helen Kalaba"
+    ],
+    "jurisdictionVillages": [
+      "Chibombo",
+      "Nyimba",
+      "Kalingalinga",
+      "Kanakantapa",
+      "Luwingu",
+      "Kawambwa"
+    ],
+    "jurisdictionSizeHectares": 38512,
+    "populationCovered": 29764,
+    "appointedDate": "2014-03-09T14:32:54.707113",
+    "yearsInService": 23,
+    "contactPhone": "+2609782167407",
+    "traditionalClan": "Crocodile",
+    "status": "Active",
+    "keyDuties": [
+      "Advise chief on land administration",
+      "Supervise assigned headmen",
+      "Resolve escalated disputes",
+      "Monitor development projects"
+    ],
+    "casesHandledPerMonth": 19,
+    "meetingsAttendedPerMonth": 12
+  },
+  {
+    "id": "IND-016",
+    "name": "Induna Musonda",
+    "title": "Induna",
+    "chiefdom": "Sub-Chief Kafue",
+    "specializedArea": "Youth & Education",
+    "responsibilities": "Oversees youth & education matters in the chiefdom",
+    "assignedHeadmen": [
+      "Mr. James Chanda",
+      "Mrs. Sarah Mumba",
+      "Mrs. Elizabeth Mutale",
+      "Mr. John Banda",
+      "Mr. Joseph Lungu",
+      "Mrs. Helen Kalaba",
+      "Mrs. Ruth Moyo"
+    ],
+    "jurisdictionVillages": [
+      "Kaunga",
+      "Mkushi",
+      "Chilanga",
+      "Luwingu",
+      "Kasama"
+    ],
+    "jurisdictionSizeHectares": 18112,
+    "populationCovered": 23538,
+    "appointedDate": "2009-12-19T14:32:54.707128",
+    "yearsInService": 23,
+    "contactPhone": "+2609651490406",
+    "traditionalClan": "Buffalo",
+    "status": "Active",
+    "keyDuties": [
+      "Advise chief on youth & education",
+      "Supervise assigned headmen",
+      "Resolve escalated disputes",
+      "Monitor development projects"
+    ],
+    "casesHandledPerMonth": 16,
+    "meetingsAttendedPerMonth": 9
+  },
+  {
+    "id": "IND-017",
+    "name": "Induna Mwamba",
+    "title": "Induna",
+    "chiefdom": "Sub-Chief Kafue",
+    "specializedArea": "Development & Projects",
+    "responsibilities": "Oversees development & projects matters in the chiefdom",
+    "assignedHeadmen": [
+      "Mr. David Mwale",
+      "Mr. John Banda",
+      "Mrs. Helen Kalaba"
+    ],
+    "jurisdictionVillages": [
+      "Isoka",
+      "Mumbwa",
+      "Sikanze",
+      "Chalimbana",
+      "Chalala",
+      "Ngwerere",
+      "Palabana"
+    ],
+    "jurisdictionSizeHectares": 26646,
+    "populationCovered": 27612,
+    "appointedDate": "2009-02-13T14:32:54.707142",
+    "yearsInService": 25,
+    "contactPhone": "+2609798680930",
+    "traditionalClan": "Lion",
+    "status": "Active",
+    "keyDuties": [
+      "Advise chief on development & projects",
+      "Supervise assigned headmen",
+      "Resolve escalated disputes",
+      "Monitor development projects"
+    ],
+    "casesHandledPerMonth": 13,
+    "meetingsAttendedPerMonth": 6
+  },
+  {
+    "id": "IND-018",
+    "name": "Induna Kazembe",
+    "title": "Induna",
+    "chiefdom": "Chieftainess Nkomesha",
+    "specializedArea": "Development & Projects",
+    "responsibilities": "Oversees development & projects matters in the chiefdom",
+    "assignedHeadmen": [
+      "Mrs. Faith Siame",
+      "Mr. Joseph Lungu",
+      "Mrs. Mary Phiri"
+    ],
+    "jurisdictionVillages": [
+      "Nchelenge",
+      "Chongwe Central",
+      "Kaunga",
+      "Nakatindi",
+      "Mbabala",
+      "Kalingalinga",
+      "Mansa"
+    ],
+    "jurisdictionSizeHectares": 27052,
+    "populationCovered": 16175,
+    "appointedDate": "2019-12-23T14:32:54.707156",
+    "yearsInService": 14,
+    "contactPhone": "+2609653004093",
+    "traditionalClan": "Elephant",
+    "status": "Active",
+    "keyDuties": [
+      "Advise chief on development & projects",
+      "Supervise assigned headmen",
+      "Resolve escalated disputes",
+      "Monitor development projects"
+    ],
+    "casesHandledPerMonth": 27,
+    "meetingsAttendedPerMonth": 9
+  },
+  {
+    "id": "IND-019",
+    "name": "Induna Nkandu",
+    "title": "Induna",
+    "chiefdom": "Sub-Chief Kafue",
+    "specializedArea": "Health & Welfare",
+    "responsibilities": "Oversees health & welfare matters in the chiefdom",
+    "assignedHeadmen": [
+      "Mrs. Sarah Mumba",
+      "Mrs. Ruth Moyo",
+      "Mr. Peter Sikalonga",
+      "Mr. Daniel Sakala",
+      "Mr. John Banda",
+      "Mr. James Chanda",
+      "Mrs. Joyce Banda",
+      "Mrs. Faith Siame"
+    ],
+    "jurisdictionVillages": [
+      "Kasempa",
+      "Kasama",
+      "Kaputa",
+      "Chongwe Central",
+      "Shimabala",
+      "Chalimbana",
+      "Nakonde"
+    ],
+    "jurisdictionSizeHectares": 42815,
+    "populationCovered": 20818,
+    "appointedDate": "2022-01-29T14:32:54.707171",
+    "yearsInService": 18,
+    "contactPhone": "+2609606080004",
+    "traditionalClan": "Crocodile",
+    "status": "Active",
+    "keyDuties": [
+      "Advise chief on health & welfare",
+      "Supervise assigned headmen",
+      "Resolve escalated disputes",
+      "Monitor development projects"
+    ],
+    "casesHandledPerMonth": 14,
+    "meetingsAttendedPerMonth": 4
+  },
+  {
+    "id": "IND-020",
+    "name": "Induna Chalwe",
+    "title": "Induna",
+    "chiefdom": "Sub-Chief Chongwe",
+    "specializedArea": "Youth & Education",
+    "responsibilities": "Oversees youth & education matters in the chiefdom",
+    "assignedHeadmen": [
+      "Mr. Patrick Zulu",
+      "Mr. George Nkonde",
+      "Mrs. Sarah Mumba",
+      "Mrs. Elizabeth Mutale",
+      "Mr. Michael Nyirenda"
+    ],
+    "jurisdictionVillages": [
+      "Chilanga",
+      "Leopards Hill",
+      "Kafue Riverside",
+      "Chipapa",
+      "Mansa"
+    ],
+    "jurisdictionSizeHectares": 32127,
+    "populationCovered": 27547,
+    "appointedDate": "2010-08-13T14:32:54.707185",
+    "yearsInService": 18,
+    "contactPhone": "+2609727462083",
+    "traditionalClan": "Fish Eagle",
+    "status": "Active",
+    "keyDuties": [
+      "Advise chief on youth & education",
+      "Supervise assigned headmen",
+      "Resolve escalated disputes",
+      "Monitor development projects"
+    ],
+    "casesHandledPerMonth": 11,
+    "meetingsAttendedPerMonth": 7
+  }
+]

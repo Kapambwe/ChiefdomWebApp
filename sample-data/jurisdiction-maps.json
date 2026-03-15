@@ -1,0 +1,6442 @@
+[
+  {
+    "id": "JM-0001",
+    "chiefdom": "Chieftainess Nkomesha",
+    "district": "Lusaka",
+    "province": "Lusaka",
+    "areaName": "Senanga Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. John Banda",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -15.4004,
+        "longitude": 28.5504
+      },
+      {
+        "latitude": -15.2773,
+        "longitude": 28.4273
+      },
+      {
+        "latitude": -15.4209,
+        "longitude": 28.5709
+      },
+      {
+        "latitude": -15.3009,
+        "longitude": 28.4509
+      },
+      {
+        "latitude": -15.4025,
+        "longitude": 28.5525
+      },
+      {
+        "latitude": -15.2764,
+        "longitude": 28.4264
+      },
+      {
+        "latitude": -15.4055,
+        "longitude": 28.5555
+      },
+      {
+        "latitude": -15.2983,
+        "longitude": 28.4483
+      }
+    ],
+    "areaSizeHectares": 14679,
+    "population": 2631,
+    "neighboringAreas": [
+      "Siavonga",
+      "Meanwood",
+      "Serenje",
+      "Luanshya"
+    ],
+    "keyLandmarks": [
+      "Chief's Palace",
+      "River"
+    ],
+    "accessRoads": "2 main roads",
+    "lastSurveyDate": "2024-04-24T15:00:30.928156"
+  },
+  {
+    "id": "JM-0002",
+    "chiefdom": "Chieftainess Nkomesha",
+    "district": "Lusaka",
+    "province": "Lusaka",
+    "areaName": "Luanshya Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. Daniel Sakala",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -15.394,
+        "longitude": 28.544
+      },
+      {
+        "latitude": -15.3211,
+        "longitude": 28.4711
+      },
+      {
+        "latitude": -15.3829,
+        "longitude": 28.5329
+      },
+      {
+        "latitude": -15.2869,
+        "longitude": 28.4369
+      },
+      {
+        "latitude": -15.4224,
+        "longitude": 28.5724
+      },
+      {
+        "latitude": -15.3031,
+        "longitude": 28.4531
+      }
+    ],
+    "areaSizeHectares": 11149,
+    "population": 11918,
+    "neighboringAreas": [
+      "Mbabala",
+      "Mufumbwe",
+      "Chalimbana",
+      "Kawambwa",
+      "Chingola"
+    ],
+    "keyLandmarks": [
+      "Market",
+      "Sports Ground"
+    ],
+    "accessRoads": "5 main roads",
+    "lastSurveyDate": "2025-02-09T15:00:30.928189"
+  },
+  {
+    "id": "JM-0003",
+    "chiefdom": "Chieftainess Nkomesha",
+    "district": "Lusaka",
+    "province": "Lusaka",
+    "areaName": "Katete Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mrs. Faith Siame",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -15.3907,
+        "longitude": 28.5407
+      },
+      {
+        "latitude": -15.3016,
+        "longitude": 28.4516
+      },
+      {
+        "latitude": -15.3898,
+        "longitude": 28.5398
+      },
+      {
+        "latitude": -15.2902,
+        "longitude": 28.4402
+      },
+      {
+        "latitude": -15.4038,
+        "longitude": 28.5538
+      },
+      {
+        "latitude": -15.3209,
+        "longitude": 28.4709
+      },
+      {
+        "latitude": -15.4161,
+        "longitude": 28.5661
+      },
+      {
+        "latitude": -15.3223,
+        "longitude": 28.4723
+      }
+    ],
+    "areaSizeHectares": 3075,
+    "population": 8806,
+    "neighboringAreas": [
+      "Mufulira",
+      "Mambwe",
+      "Lundazi",
+      "Mufumbwe"
+    ],
+    "keyLandmarks": [
+      "Mosque",
+      "School"
+    ],
+    "accessRoads": "8 main roads",
+    "lastSurveyDate": "2024-09-25T15:00:30.928211"
+  },
+  {
+    "id": "JM-0004",
+    "chiefdom": "Chieftainess Nkomesha",
+    "district": "Lusaka",
+    "province": "Lusaka",
+    "areaName": "Chalimbana Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Sarah Mumba",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -15.3982,
+        "longitude": 28.5482
+      },
+      {
+        "latitude": -15.2991,
+        "longitude": 28.4491
+      },
+      {
+        "latitude": -15.3994,
+        "longitude": 28.5494
+      },
+      {
+        "latitude": -15.2791,
+        "longitude": 28.4291
+      },
+      {
+        "latitude": -15.3913,
+        "longitude": 28.5413
+      }
+    ],
+    "areaSizeHectares": 13293,
+    "population": 4366,
+    "neighboringAreas": [
+      "Isoka",
+      "Katoba"
+    ],
+    "keyLandmarks": [
+      "Sports Ground",
+      "School",
+      "Church"
+    ],
+    "accessRoads": "6 main roads",
+    "lastSurveyDate": "2024-08-08T15:00:30.928229"
+  },
+  {
+    "id": "JM-0005",
+    "chiefdom": "Chieftainess Nkomesha",
+    "district": "Lusaka",
+    "province": "Lusaka",
+    "areaName": "Vubwi Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. Lawrence Kapasa",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -15.3974,
+        "longitude": 28.5474
+      },
+      {
+        "latitude": -15.3011,
+        "longitude": 28.4511
+      },
+      {
+        "latitude": -15.4173,
+        "longitude": 28.5673
+      },
+      {
+        "latitude": -15.3214,
+        "longitude": 28.4714
+      },
+      {
+        "latitude": -15.4047,
+        "longitude": 28.5547
+      }
+    ],
+    "areaSizeHectares": 19169,
+    "population": 1053,
+    "neighboringAreas": [
+      "Kaunga",
+      "Chipapa",
+      "Kasempa",
+      "Sinazongwe"
+    ],
+    "keyLandmarks": [
+      "Market",
+      "Community Center"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2025-02-04T15:00:30.928246"
+  },
+  {
+    "id": "JM-0006",
+    "chiefdom": "Chief Chipepo",
+    "district": "Chongwe",
+    "province": "Lusaka",
+    "areaName": "Mansa Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. James Chanda",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -15.3603,
+        "longitude": 28.7303
+      },
+      {
+        "latitude": -15.2632,
+        "longitude": 28.6332
+      },
+      {
+        "latitude": -15.3719,
+        "longitude": 28.7419
+      },
+      {
+        "latitude": -15.2735,
+        "longitude": 28.6435
+      },
+      {
+        "latitude": -15.3992,
+        "longitude": 28.7692
+      },
+      {
+        "latitude": -15.2551,
+        "longitude": 28.6251
+      },
+      {
+        "latitude": -15.3622,
+        "longitude": 28.7322
+      }
+    ],
+    "areaSizeHectares": 10193,
+    "population": 5642,
+    "neighboringAreas": [
+      "Mufulira",
+      "Sinazongwe"
+    ],
+    "keyLandmarks": [
+      "Sports Ground",
+      "Hospital",
+      "School"
+    ],
+    "accessRoads": "7 main roads",
+    "lastSurveyDate": "2025-03-24T15:00:30.928266"
+  },
+  {
+    "id": "JM-0007",
+    "chiefdom": "Chief Chipepo",
+    "district": "Chongwe",
+    "province": "Lusaka",
+    "areaName": "Mbabala Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mrs. Margaret Musonda",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -15.3993,
+        "longitude": 28.7693
+      },
+      {
+        "latitude": -15.2781,
+        "longitude": 28.6481
+      },
+      {
+        "latitude": -15.3885,
+        "longitude": 28.7585
+      },
+      {
+        "latitude": -15.2762,
+        "longitude": 28.6462
+      },
+      {
+        "latitude": -15.3719,
+        "longitude": 28.7419
+      },
+      {
+        "latitude": -15.2951,
+        "longitude": 28.6651
+      },
+      {
+        "latitude": -15.3565,
+        "longitude": 28.7265
+      },
+      {
+        "latitude": -15.2685,
+        "longitude": 28.6385
+      }
+    ],
+    "areaSizeHectares": 7746,
+    "population": 1893,
+    "neighboringAreas": [
+      "Makeni",
+      "Chililabombwe"
+    ],
+    "keyLandmarks": [
+      "Community Center",
+      "Church"
+    ],
+    "accessRoads": "5 main roads",
+    "lastSurveyDate": "2024-09-03T15:00:30.928287"
+  },
+  {
+    "id": "JM-0008",
+    "chiefdom": "Chief Chipepo",
+    "district": "Chongwe",
+    "province": "Lusaka",
+    "areaName": "Mambwe Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. Patrick Zulu",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -15.364,
+        "longitude": 28.734
+      },
+      {
+        "latitude": -15.2921,
+        "longitude": 28.6621
+      },
+      {
+        "latitude": -15.3874,
+        "longitude": 28.7574
+      },
+      {
+        "latitude": -15.3025,
+        "longitude": 28.6725
+      },
+      {
+        "latitude": -15.3847,
+        "longitude": 28.7547
+      }
+    ],
+    "areaSizeHectares": 19650,
+    "population": 10763,
+    "neighboringAreas": [
+      "Kasama",
+      "Kalomo",
+      "Mansa",
+      "Chinsali",
+      "Chililabombwe"
+    ],
+    "keyLandmarks": [
+      "School",
+      "Church",
+      "River",
+      "Sacred Grove"
+    ],
+    "accessRoads": "4 main roads",
+    "lastSurveyDate": "2024-05-26T15:00:30.928304"
+  },
+  {
+    "id": "JM-0009",
+    "chiefdom": "Chief Chipepo",
+    "district": "Chongwe",
+    "province": "Lusaka",
+    "areaName": "Chadiza Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. Simon Lubinda",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -15.3719,
+        "longitude": 28.7419
+      },
+      {
+        "latitude": -15.2814,
+        "longitude": 28.6514
+      },
+      {
+        "latitude": -15.3779,
+        "longitude": 28.7479
+      },
+      {
+        "latitude": -15.2888,
+        "longitude": 28.6588
+      },
+      {
+        "latitude": -15.376,
+        "longitude": 28.746
+      },
+      {
+        "latitude": -15.2975,
+        "longitude": 28.6675
+      },
+      {
+        "latitude": -15.3653,
+        "longitude": 28.7353
+      }
+    ],
+    "areaSizeHectares": 6389,
+    "population": 4889,
+    "neighboringAreas": [
+      "Vubwi",
+      "Senanga",
+      "Nakonde"
+    ],
+    "keyLandmarks": [
+      "Market",
+      "Hospital"
+    ],
+    "accessRoads": "7 main roads",
+    "lastSurveyDate": "2025-03-10T15:00:30.928323"
+  },
+  {
+    "id": "JM-0010",
+    "chiefdom": "Chief Chipepo",
+    "district": "Chongwe",
+    "province": "Lusaka",
+    "areaName": "Nyimba Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. Richard Zimba",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -15.3849,
+        "longitude": 28.7549
+      },
+      {
+        "latitude": -15.2939,
+        "longitude": 28.6639
+      },
+      {
+        "latitude": -15.3967,
+        "longitude": 28.7667
+      },
+      {
+        "latitude": -15.2819,
+        "longitude": 28.6519
+      },
+      {
+        "latitude": -15.3622,
+        "longitude": 28.7322
+      },
+      {
+        "latitude": -15.2565,
+        "longitude": 28.6265
+      },
+      {
+        "latitude": -15.3576,
+        "longitude": 28.7276
+      },
+      {
+        "latitude": -15.296,
+        "longitude": 28.666
+      }
+    ],
+    "areaSizeHectares": 5409,
+    "population": 5427,
+    "neighboringAreas": [
+      "Shimabala",
+      "Mongu",
+      "Luangwa",
+      "Sikanze",
+      "Mufumbwe"
+    ],
+    "keyLandmarks": [
+      "Sports Ground",
+      "Chief's Palace",
+      "River"
+    ],
+    "accessRoads": "7 main roads",
+    "lastSurveyDate": "2024-07-05T15:00:30.928343"
+  },
+  {
+    "id": "JM-0011",
+    "chiefdom": "Chief Chitanda",
+    "district": "Kabwe",
+    "province": "Central",
+    "areaName": "Palabana Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mrs. Mary Phiri",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -14.478,
+        "longitude": 28.478
+      },
+      {
+        "latitude": -14.4169,
+        "longitude": 28.4169
+      },
+      {
+        "latitude": -14.5121,
+        "longitude": 28.5121
+      },
+      {
+        "latitude": -14.3886,
+        "longitude": 28.3886
+      },
+      {
+        "latitude": -14.5075,
+        "longitude": 28.5075
+      },
+      {
+        "latitude": -14.4,
+        "longitude": 28.4
+      }
+    ],
+    "areaSizeHectares": 17905,
+    "population": 10387,
+    "neighboringAreas": [
+      "Petauke",
+      "Kabwe",
+      "Nakatindi",
+      "Kaunga",
+      "Mporokoso"
+    ],
+    "keyLandmarks": [
+      "Hospital",
+      "Sacred Grove"
+    ],
+    "accessRoads": "8 main roads",
+    "lastSurveyDate": "2024-06-01T15:00:30.928363"
+  },
+  {
+    "id": "JM-0012",
+    "chiefdom": "Chief Chitanda",
+    "district": "Kabwe",
+    "province": "Central",
+    "areaName": "Solwezi Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. Francis Chipanga",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -14.507,
+        "longitude": 28.507
+      },
+      {
+        "latitude": -14.4239,
+        "longitude": 28.4239
+      },
+      {
+        "latitude": -14.5045,
+        "longitude": 28.5045
+      },
+      {
+        "latitude": -14.3873,
+        "longitude": 28.3873
+      }
+    ],
+    "areaSizeHectares": 11169,
+    "population": 3697,
+    "neighboringAreas": [
+      "Mpika",
+      "Mumbwa",
+      "Mambwe"
+    ],
+    "keyLandmarks": [
+      "Hospital",
+      "River",
+      "Sacred Grove"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2024-03-23T15:00:30.928380"
+  },
+  {
+    "id": "JM-0013",
+    "chiefdom": "Chief Chitanda",
+    "district": "Kabwe",
+    "province": "Central",
+    "areaName": "Shimabala Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mrs. Dorothy Hamoonga",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -14.5117,
+        "longitude": 28.5117
+      },
+      {
+        "latitude": -14.4008,
+        "longitude": 28.4008
+      },
+      {
+        "latitude": -14.5128,
+        "longitude": 28.5128
+      },
+      {
+        "latitude": -14.4103,
+        "longitude": 28.4103
+      },
+      {
+        "latitude": -14.4945,
+        "longitude": 28.4945
+      },
+      {
+        "latitude": -14.394,
+        "longitude": 28.394
+      },
+      {
+        "latitude": -14.5103,
+        "longitude": 28.5103
+      },
+      {
+        "latitude": -14.4043,
+        "longitude": 28.4043
+      }
+    ],
+    "areaSizeHectares": 6770,
+    "population": 8656,
+    "neighboringAreas": [
+      "Mongu",
+      "Chadiza",
+      "Mkushi",
+      "Mporokoso"
+    ],
+    "keyLandmarks": [
+      "Mosque",
+      "River",
+      "Sports Ground",
+      "Church"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2024-04-03T15:00:30.928402"
+  },
+  {
+    "id": "JM-0014",
+    "chiefdom": "Chief Chitanda",
+    "district": "Kabwe",
+    "province": "Central",
+    "areaName": "Kabwe Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. Peter Sikalonga",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -14.48,
+        "longitude": 28.48
+      },
+      {
+        "latitude": -14.4123,
+        "longitude": 28.4123
+      },
+      {
+        "latitude": -14.4921,
+        "longitude": 28.4921
+      },
+      {
+        "latitude": -14.4089,
+        "longitude": 28.4089
+      },
+      {
+        "latitude": -14.4763,
+        "longitude": 28.4763
+      },
+      {
+        "latitude": -14.4167,
+        "longitude": 28.4167
+      },
+      {
+        "latitude": -14.4817,
+        "longitude": 28.4817
+      },
+      {
+        "latitude": -14.4144,
+        "longitude": 28.4144
+      }
+    ],
+    "areaSizeHectares": 14715,
+    "population": 6254,
+    "neighboringAreas": [
+      "Mkushi",
+      "Katete",
+      "Pemba",
+      "Leopards Hill"
+    ],
+    "keyLandmarks": [
+      "Sports Ground",
+      "Hospital"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2024-07-12T15:00:30.928430"
+  },
+  {
+    "id": "JM-0015",
+    "chiefdom": "Chief Chitanda",
+    "district": "Kabwe",
+    "province": "Central",
+    "areaName": "Livingstone Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. Simon Lubinda",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -14.5163,
+        "longitude": 28.5163
+      },
+      {
+        "latitude": -14.3944,
+        "longitude": 28.3944
+      },
+      {
+        "latitude": -14.475,
+        "longitude": 28.475
+      },
+      {
+        "latitude": -14.4163,
+        "longitude": 28.4163
+      },
+      {
+        "latitude": -14.4904,
+        "longitude": 28.4904
+      },
+      {
+        "latitude": -14.3994,
+        "longitude": 28.3994
+      },
+      {
+        "latitude": -14.4984,
+        "longitude": 28.4984
+      },
+      {
+        "latitude": -14.4215,
+        "longitude": 28.4215
+      }
+    ],
+    "areaSizeHectares": 18911,
+    "population": 5147,
+    "neighboringAreas": [
+      "Kitwe",
+      "Mwinilunga",
+      "Kasempa",
+      "Petauke"
+    ],
+    "keyLandmarks": [
+      "Mosque",
+      "Hospital",
+      "River",
+      "Sports Ground",
+      "Church"
+    ],
+    "accessRoads": "2 main roads",
+    "lastSurveyDate": "2025-02-26T15:00:30.928451"
+  },
+  {
+    "id": "JM-0016",
+    "chiefdom": "Chief Chiundaponde",
+    "district": "Chibombo",
+    "province": "Central",
+    "areaName": "Ndola Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. Michael Nyirenda",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -14.6891,
+        "longitude": 28.1091
+      },
+      {
+        "latitude": -14.6184,
+        "longitude": 28.0384
+      },
+      {
+        "latitude": -14.6984,
+        "longitude": 28.1184
+      },
+      {
+        "latitude": -14.5996,
+        "longitude": 28.0196
+      }
+    ],
+    "areaSizeHectares": 4527,
+    "population": 1942,
+    "neighboringAreas": [
+      "Kafue Riverside",
+      "Munyumba"
+    ],
+    "keyLandmarks": [
+      "Market",
+      "Church",
+      "Chief's Palace",
+      "Community Center"
+    ],
+    "accessRoads": "8 main roads",
+    "lastSurveyDate": "2024-11-26T15:00:30.928467"
+  },
+  {
+    "id": "JM-0017",
+    "chiefdom": "Chief Chiundaponde",
+    "district": "Chibombo",
+    "province": "Central",
+    "areaName": "Chongwe Central Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mrs. Linda Chiluba",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -14.7025,
+        "longitude": 28.1225
+      },
+      {
+        "latitude": -14.6201,
+        "longitude": 28.0401
+      },
+      {
+        "latitude": -14.7012,
+        "longitude": 28.1212
+      },
+      {
+        "latitude": -14.6016,
+        "longitude": 28.0216
+      },
+      {
+        "latitude": -14.7078,
+        "longitude": 28.1278
+      },
+      {
+        "latitude": -14.5841,
+        "longitude": 28.0041
+      },
+      {
+        "latitude": -14.6863,
+        "longitude": 28.1063
+      }
+    ],
+    "areaSizeHectares": 2768,
+    "population": 6843,
+    "neighboringAreas": [
+      "Chainda",
+      "Luanshya",
+      "Lukulu"
+    ],
+    "keyLandmarks": [
+      "Mosque",
+      "Hospital",
+      "Church",
+      "Chief's Palace",
+      "Market"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2024-07-24T15:00:30.928485"
+  },
+  {
+    "id": "JM-0018",
+    "chiefdom": "Chief Chiundaponde",
+    "district": "Chibombo",
+    "province": "Central",
+    "areaName": "Mambwe Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. Robert Ngoma",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -14.7167,
+        "longitude": 28.1367
+      },
+      {
+        "latitude": -14.6203,
+        "longitude": 28.0403
+      },
+      {
+        "latitude": -14.7121,
+        "longitude": 28.1321
+      },
+      {
+        "latitude": -14.6122,
+        "longitude": 28.0322
+      },
+      {
+        "latitude": -14.7077,
+        "longitude": 28.1277
+      }
+    ],
+    "areaSizeHectares": 3451,
+    "population": 3864,
+    "neighboringAreas": [
+      "Mpongwe",
+      "Chilanga",
+      "Makeni",
+      "Kitwe"
+    ],
+    "keyLandmarks": [
+      "Market",
+      "Community Center",
+      "School"
+    ],
+    "accessRoads": "2 main roads",
+    "lastSurveyDate": "2024-09-03T15:00:30.928503"
+  },
+  {
+    "id": "JM-0019",
+    "chiefdom": "Chief Chiundaponde",
+    "district": "Chibombo",
+    "province": "Central",
+    "areaName": "Kawambwa Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. Robert Ngoma",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -14.7029,
+        "longitude": 28.1229
+      },
+      {
+        "latitude": -14.5783,
+        "longitude": 27.9983
+      },
+      {
+        "latitude": -14.7243,
+        "longitude": 28.1443
+      },
+      {
+        "latitude": -14.5783,
+        "longitude": 27.9983
+      },
+      {
+        "latitude": -14.7059,
+        "longitude": 28.1259
+      },
+      {
+        "latitude": -14.6144,
+        "longitude": 28.0344
+      },
+      {
+        "latitude": -14.6852,
+        "longitude": 28.1052
+      },
+      {
+        "latitude": -14.5895,
+        "longitude": 28.0095
+      }
+    ],
+    "areaSizeHectares": 14854,
+    "population": 3155,
+    "neighboringAreas": [
+      "Serenje",
+      "Choma",
+      "Chalimbana"
+    ],
+    "keyLandmarks": [
+      "Mosque",
+      "Church",
+      "River",
+      "Market",
+      "Chief's Palace"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2024-12-03T15:00:30.928534"
+  },
+  {
+    "id": "JM-0020",
+    "chiefdom": "Chief Chiundaponde",
+    "district": "Chibombo",
+    "province": "Central",
+    "areaName": "Katoba Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mrs. Joyce Banda",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -14.679,
+        "longitude": 28.099
+      },
+      {
+        "latitude": -14.5998,
+        "longitude": 28.0198
+      },
+      {
+        "latitude": -14.6987,
+        "longitude": 28.1187
+      },
+      {
+        "latitude": -14.5762,
+        "longitude": 27.9962
+      },
+      {
+        "latitude": -14.7174,
+        "longitude": 28.1374
+      },
+      {
+        "latitude": -14.6096,
+        "longitude": 28.0296
+      }
+    ],
+    "areaSizeHectares": 12507,
+    "population": 2569,
+    "neighboringAreas": [
+      "Kaputa",
+      "Sesheke"
+    ],
+    "keyLandmarks": [
+      "School",
+      "Mosque",
+      "Community Center",
+      "Sacred Grove",
+      "Hospital"
+    ],
+    "accessRoads": "7 main roads",
+    "lastSurveyDate": "2024-07-05T15:00:30.928576"
+  },
+  {
+    "id": "JM-0021",
+    "chiefdom": "Chief Mukobela",
+    "district": "Mumbwa",
+    "province": "Central",
+    "areaName": "Chipapa Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. George Nkonde",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -15.0422,
+        "longitude": 27.1222
+      },
+      {
+        "latitude": -14.9393,
+        "longitude": 27.0193
+      },
+      {
+        "latitude": -15.0089,
+        "longitude": 27.0889
+      },
+      {
+        "latitude": -14.9277,
+        "longitude": 27.0077
+      },
+      {
+        "latitude": -15.0247,
+        "longitude": 27.1047
+      }
+    ],
+    "areaSizeHectares": 4284,
+    "population": 11984,
+    "neighboringAreas": [
+      "Kaoma",
+      "Monze",
+      "Vubwi"
+    ],
+    "keyLandmarks": [
+      "Sacred Grove",
+      "Market",
+      "Hospital"
+    ],
+    "accessRoads": "8 main roads",
+    "lastSurveyDate": "2024-09-24T15:00:30.928597"
+  },
+  {
+    "id": "JM-0022",
+    "chiefdom": "Chief Mukobela",
+    "district": "Mumbwa",
+    "province": "Central",
+    "areaName": "Sesheke Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. Richard Zimba",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -15.0181,
+        "longitude": 27.0981
+      },
+      {
+        "latitude": -14.9499,
+        "longitude": 27.0299
+      },
+      {
+        "latitude": -15.0304,
+        "longitude": 27.1104
+      },
+      {
+        "latitude": -14.9148,
+        "longitude": 26.9948
+      }
+    ],
+    "areaSizeHectares": 11419,
+    "population": 4508,
+    "neighboringAreas": [
+      "Mazabuka",
+      "Samfya",
+      "Lukulu"
+    ],
+    "keyLandmarks": [
+      "Sports Ground",
+      "Market"
+    ],
+    "accessRoads": "4 main roads",
+    "lastSurveyDate": "2024-09-10T15:00:30.928612"
+  },
+  {
+    "id": "JM-0023",
+    "chiefdom": "Chief Mukobela",
+    "district": "Mumbwa",
+    "province": "Central",
+    "areaName": "Chipapa Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Ruth Moyo",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -15.0286,
+        "longitude": 27.1086
+      },
+      {
+        "latitude": -14.9314,
+        "longitude": 27.0114
+      },
+      {
+        "latitude": -15.0413,
+        "longitude": 27.1213
+      },
+      {
+        "latitude": -14.9544,
+        "longitude": 27.0344
+      },
+      {
+        "latitude": -15.0085,
+        "longitude": 27.0885
+      },
+      {
+        "latitude": -14.9243,
+        "longitude": 27.0043
+      },
+      {
+        "latitude": -15.0278,
+        "longitude": 27.1078
+      }
+    ],
+    "areaSizeHectares": 6697,
+    "population": 9563,
+    "neighboringAreas": [
+      "Chilanga",
+      "Mambwe",
+      "Chadiza",
+      "Kalulushi",
+      "Kasama"
+    ],
+    "keyLandmarks": [
+      "Market",
+      "River",
+      "Sacred Grove"
+    ],
+    "accessRoads": "5 main roads",
+    "lastSurveyDate": "2024-11-23T15:00:30.928632"
+  },
+  {
+    "id": "JM-0024",
+    "chiefdom": "Chief Mukobela",
+    "district": "Mumbwa",
+    "province": "Central",
+    "areaName": "Chingola Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mrs. Joyce Banda",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -15.0379,
+        "longitude": 27.1179
+      },
+      {
+        "latitude": -14.9183,
+        "longitude": 26.9983
+      },
+      {
+        "latitude": -15.0333,
+        "longitude": 27.1133
+      },
+      {
+        "latitude": -14.9532,
+        "longitude": 27.0332
+      },
+      {
+        "latitude": -15.0522,
+        "longitude": 27.1322
+      }
+    ],
+    "areaSizeHectares": 19787,
+    "population": 9503,
+    "neighboringAreas": [
+      "Livingstone",
+      "Kabwe",
+      "Lilayi"
+    ],
+    "keyLandmarks": [
+      "Church",
+      "Sacred Grove",
+      "School",
+      "River"
+    ],
+    "accessRoads": "4 main roads",
+    "lastSurveyDate": "2025-06-26T15:00:30.928649"
+  },
+  {
+    "id": "JM-0025",
+    "chiefdom": "Chief Mukobela",
+    "district": "Mumbwa",
+    "province": "Central",
+    "areaName": "Munyumba Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mrs. Margaret Musonda",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -15.0518,
+        "longitude": 27.1318
+      },
+      {
+        "latitude": -14.9485,
+        "longitude": 27.0285
+      },
+      {
+        "latitude": -15.0407,
+        "longitude": 27.1207
+      },
+      {
+        "latitude": -14.925,
+        "longitude": 27.005
+      },
+      {
+        "latitude": -15.0173,
+        "longitude": 27.0973
+      }
+    ],
+    "areaSizeHectares": 2621,
+    "population": 8298,
+    "neighboringAreas": [
+      "Mazabuka",
+      "Chongwe Central",
+      "Chisamba",
+      "Meanwood"
+    ],
+    "keyLandmarks": [
+      "Hospital",
+      "Church",
+      "Sports Ground",
+      "Market"
+    ],
+    "accessRoads": "5 main roads",
+    "lastSurveyDate": "2024-12-16T15:00:30.928666"
+  },
+  {
+    "id": "JM-0026",
+    "chiefdom": "Chief Mushili",
+    "district": "Ndola",
+    "province": "Copperbelt",
+    "areaName": "Kasempa Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. Lawrence Kapasa",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -13.0329,
+        "longitude": 28.7029
+      },
+      {
+        "latitude": -12.9084,
+        "longitude": 28.5784
+      },
+      {
+        "latitude": -13.0298,
+        "longitude": 28.6998
+      },
+      {
+        "latitude": -12.9107,
+        "longitude": 28.5807
+      },
+      {
+        "latitude": -13.0164,
+        "longitude": 28.6864
+      },
+      {
+        "latitude": -12.9301,
+        "longitude": 28.6001
+      },
+      {
+        "latitude": -13.0138,
+        "longitude": 28.6838
+      }
+    ],
+    "areaSizeHectares": 3186,
+    "population": 4220,
+    "neighboringAreas": [
+      "Monze",
+      "Kawambwa",
+      "Chalimbana",
+      "Kasama"
+    ],
+    "keyLandmarks": [
+      "Sports Ground",
+      "Church"
+    ],
+    "accessRoads": "8 main roads",
+    "lastSurveyDate": "2024-05-17T15:00:30.928685"
+  },
+  {
+    "id": "JM-0027",
+    "chiefdom": "Chief Mushili",
+    "district": "Ndola",
+    "province": "Copperbelt",
+    "areaName": "Mbabala Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. Daniel Sakala",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -12.9957,
+        "longitude": 28.6657
+      },
+      {
+        "latitude": -12.9047,
+        "longitude": 28.5747
+      },
+      {
+        "latitude": -13.0214,
+        "longitude": 28.6914
+      },
+      {
+        "latitude": -12.9364,
+        "longitude": 28.6064
+      }
+    ],
+    "areaSizeHectares": 6999,
+    "population": 2554,
+    "neighboringAreas": [
+      "Katoba",
+      "Palabana"
+    ],
+    "keyLandmarks": [
+      "Community Center",
+      "Hospital",
+      "River",
+      "Chief's Palace",
+      "Market"
+    ],
+    "accessRoads": "7 main roads",
+    "lastSurveyDate": "2024-02-28T15:00:30.928701"
+  },
+  {
+    "id": "JM-0028",
+    "chiefdom": "Chief Mushili",
+    "district": "Ndola",
+    "province": "Copperbelt",
+    "areaName": "Munyumba Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. George Nkonde",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -13.0088,
+        "longitude": 28.6788
+      },
+      {
+        "latitude": -12.912,
+        "longitude": 28.582
+      },
+      {
+        "latitude": -13.0117,
+        "longitude": 28.6817
+      },
+      {
+        "latitude": -12.9256,
+        "longitude": 28.5956
+      },
+      {
+        "latitude": -13.0366,
+        "longitude": 28.7066
+      }
+    ],
+    "areaSizeHectares": 12086,
+    "population": 2783,
+    "neighboringAreas": [
+      "Luanshya",
+      "Kalabo",
+      "Kitwe",
+      "Nyimba"
+    ],
+    "keyLandmarks": [
+      "School",
+      "Sports Ground",
+      "Community Center"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2024-01-21T15:00:30.928717"
+  },
+  {
+    "id": "JM-0029",
+    "chiefdom": "Chief Mushili",
+    "district": "Ndola",
+    "province": "Copperbelt",
+    "areaName": "Shimabala Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. Charles Bwalya",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -12.9992,
+        "longitude": 28.6692
+      },
+      {
+        "latitude": -12.944,
+        "longitude": 28.614
+      },
+      {
+        "latitude": -13.0238,
+        "longitude": 28.6938
+      },
+      {
+        "latitude": -12.8961,
+        "longitude": 28.5661
+      },
+      {
+        "latitude": -13.0375,
+        "longitude": 28.7075
+      },
+      {
+        "latitude": -12.9321,
+        "longitude": 28.6021
+      }
+    ],
+    "areaSizeHectares": 6409,
+    "population": 1199,
+    "neighboringAreas": [
+      "Mumbwa",
+      "Zambezi",
+      "Mbala",
+      "Leopards Hill",
+      "Solwezi"
+    ],
+    "keyLandmarks": [
+      "Mosque",
+      "School",
+      "Church",
+      "Chief's Palace",
+      "Market"
+    ],
+    "accessRoads": "2 main roads",
+    "lastSurveyDate": "2025-02-22T15:00:30.928736"
+  },
+  {
+    "id": "JM-0030",
+    "chiefdom": "Chief Mushili",
+    "district": "Ndola",
+    "province": "Copperbelt",
+    "areaName": "Kasempa Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mrs. Faith Siame",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -13.0389,
+        "longitude": 28.7089
+      },
+      {
+        "latitude": -12.9441,
+        "longitude": 28.6141
+      },
+      {
+        "latitude": -13.0065,
+        "longitude": 28.6765
+      },
+      {
+        "latitude": -12.9434,
+        "longitude": 28.6134
+      },
+      {
+        "latitude": -13.0195,
+        "longitude": 28.6895
+      }
+    ],
+    "areaSizeHectares": 9881,
+    "population": 4494,
+    "neighboringAreas": [
+      "Kabompo",
+      "Solwezi",
+      "Kawambwa"
+    ],
+    "keyLandmarks": [
+      "School",
+      "River",
+      "Market",
+      "Hospital",
+      "Mosque"
+    ],
+    "accessRoads": "5 main roads",
+    "lastSurveyDate": "2024-09-26T15:00:30.928754"
+  },
+  {
+    "id": "JM-0031",
+    "chiefdom": "Chief Chiwala",
+    "district": "Luanshya",
+    "province": "Copperbelt",
+    "areaName": "Leopards Hill Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. David Mwale",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -13.1696,
+        "longitude": 28.4396
+      },
+      {
+        "latitude": -13.1035,
+        "longitude": 28.3735
+      },
+      {
+        "latitude": -13.1731,
+        "longitude": 28.4431
+      },
+      {
+        "latitude": -13.1086,
+        "longitude": 28.3786
+      },
+      {
+        "latitude": -13.1681,
+        "longitude": 28.4381
+      },
+      {
+        "latitude": -13.0752,
+        "longitude": 28.3452
+      }
+    ],
+    "areaSizeHectares": 3623,
+    "population": 9287,
+    "neighboringAreas": [
+      "Kawambwa",
+      "Mbabala",
+      "Kaoma"
+    ],
+    "keyLandmarks": [
+      "Mosque",
+      "Sacred Grove"
+    ],
+    "accessRoads": "7 main roads",
+    "lastSurveyDate": "2024-11-10T15:00:30.928772"
+  },
+  {
+    "id": "JM-0032",
+    "chiefdom": "Chief Chiwala",
+    "district": "Luanshya",
+    "province": "Copperbelt",
+    "areaName": "Siavonga Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. Joseph Lungu",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -13.2115,
+        "longitude": 28.4815
+      },
+      {
+        "latitude": -13.1,
+        "longitude": 28.37
+      },
+      {
+        "latitude": -13.1707,
+        "longitude": 28.4407
+      },
+      {
+        "latitude": -13.0762,
+        "longitude": 28.3462
+      },
+      {
+        "latitude": -13.1747,
+        "longitude": 28.4447
+      },
+      {
+        "latitude": -13.1117,
+        "longitude": 28.3817
+      },
+      {
+        "latitude": -13.2051,
+        "longitude": 28.4751
+      }
+    ],
+    "areaSizeHectares": 19648,
+    "population": 3508,
+    "neighboringAreas": [
+      "Meanwood",
+      "Chisamba",
+      "Solwezi"
+    ],
+    "keyLandmarks": [
+      "Chief's Palace",
+      "Sports Ground",
+      "Hospital",
+      "School"
+    ],
+    "accessRoads": "5 main roads",
+    "lastSurveyDate": "2024-12-23T15:00:30.928790"
+  },
+  {
+    "id": "JM-0033",
+    "chiefdom": "Chief Chiwala",
+    "district": "Luanshya",
+    "province": "Copperbelt",
+    "areaName": "Kaunga Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. Vincent Hachipuka",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -13.207,
+        "longitude": 28.477
+      },
+      {
+        "latitude": -13.0826,
+        "longitude": 28.3526
+      },
+      {
+        "latitude": -13.2024,
+        "longitude": 28.4724
+      },
+      {
+        "latitude": -13.0834,
+        "longitude": 28.3534
+      },
+      {
+        "latitude": -13.1997,
+        "longitude": 28.4697
+      },
+      {
+        "latitude": -13.0773,
+        "longitude": 28.3473
+      },
+      {
+        "latitude": -13.1916,
+        "longitude": 28.4616
+      },
+      {
+        "latitude": -13.1112,
+        "longitude": 28.3812
+      }
+    ],
+    "areaSizeHectares": 19247,
+    "population": 9688,
+    "neighboringAreas": [
+      "Mutumbi",
+      "Chama",
+      "Luangwa"
+    ],
+    "keyLandmarks": [
+      "Chief's Palace",
+      "Church",
+      "Sports Ground",
+      "Sacred Grove"
+    ],
+    "accessRoads": "5 main roads",
+    "lastSurveyDate": "2024-06-07T15:00:30.928810"
+  },
+  {
+    "id": "JM-0034",
+    "chiefdom": "Chief Chiwala",
+    "district": "Luanshya",
+    "province": "Copperbelt",
+    "areaName": "Leopards Hill Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. Vincent Hachipuka",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -13.2042,
+        "longitude": 28.4742
+      },
+      {
+        "latitude": -13.1044,
+        "longitude": 28.3744
+      },
+      {
+        "latitude": -13.2004,
+        "longitude": 28.4704
+      },
+      {
+        "latitude": -13.0829,
+        "longitude": 28.3529
+      },
+      {
+        "latitude": -13.212,
+        "longitude": 28.482
+      },
+      {
+        "latitude": -13.0993,
+        "longitude": 28.3693
+      }
+    ],
+    "areaSizeHectares": 14055,
+    "population": 4614,
+    "neighboringAreas": [
+      "Mufulira",
+      "Kalingalinga"
+    ],
+    "keyLandmarks": [
+      "Chief's Palace",
+      "River",
+      "Sacred Grove"
+    ],
+    "accessRoads": "2 main roads",
+    "lastSurveyDate": "2024-11-21T15:00:30.928827"
+  },
+  {
+    "id": "JM-0035",
+    "chiefdom": "Chief Chiwala",
+    "district": "Luanshya",
+    "province": "Copperbelt",
+    "areaName": "Nchelenge Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Catherine Kasonde",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -13.1826,
+        "longitude": 28.4526
+      },
+      {
+        "latitude": -13.0723,
+        "longitude": 28.3423
+      },
+      {
+        "latitude": -13.1661,
+        "longitude": 28.4361
+      },
+      {
+        "latitude": -13.0798,
+        "longitude": 28.3498
+      },
+      {
+        "latitude": -13.1833,
+        "longitude": 28.4533
+      }
+    ],
+    "areaSizeHectares": 4016,
+    "population": 1509,
+    "neighboringAreas": [
+      "Mpongwe",
+      "Siavonga",
+      "Leopards Hill",
+      "Petauke",
+      "Chinsali"
+    ],
+    "keyLandmarks": [
+      "Hospital",
+      "School"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2024-02-20T15:00:30.928844"
+  },
+  {
+    "id": "JM-0036",
+    "chiefdom": "Chief Nkana",
+    "district": "Kitwe",
+    "province": "Copperbelt",
+    "areaName": "Chilanga Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mrs. Beatrice Nkhoma",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -12.873,
+        "longitude": 28.283
+      },
+      {
+        "latitude": -12.7548,
+        "longitude": 28.1648
+      },
+      {
+        "latitude": -12.859,
+        "longitude": 28.269
+      },
+      {
+        "latitude": -12.7579,
+        "longitude": 28.1679
+      },
+      {
+        "latitude": -12.8288,
+        "longitude": 28.2388
+      }
+    ],
+    "areaSizeHectares": 10587,
+    "population": 2715,
+    "neighboringAreas": [
+      "Kasempa",
+      "Isoka",
+      "Mpongwe",
+      "Nakatindi"
+    ],
+    "keyLandmarks": [
+      "Market",
+      "Hospital",
+      "Sacred Grove"
+    ],
+    "accessRoads": "2 main roads",
+    "lastSurveyDate": "2025-06-12T15:00:30.928861"
+  },
+  {
+    "id": "JM-0037",
+    "chiefdom": "Chief Nkana",
+    "district": "Kitwe",
+    "province": "Copperbelt",
+    "areaName": "Leopards Hill Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. Peter Sikalonga",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -12.8662,
+        "longitude": 28.2762
+      },
+      {
+        "latitude": -12.7728,
+        "longitude": 28.1828
+      },
+      {
+        "latitude": -12.8534,
+        "longitude": 28.2634
+      },
+      {
+        "latitude": -12.7626,
+        "longitude": 28.1726
+      },
+      {
+        "latitude": -12.8677,
+        "longitude": 28.2777
+      }
+    ],
+    "areaSizeHectares": 3871,
+    "population": 5671,
+    "neighboringAreas": [
+      "Monze",
+      "Shimabala",
+      "Makeni"
+    ],
+    "keyLandmarks": [
+      "Hospital",
+      "Community Center",
+      "Church",
+      "River",
+      "Sacred Grove"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2024-04-10T15:00:30.928878"
+  },
+  {
+    "id": "JM-0038",
+    "chiefdom": "Chief Nkana",
+    "district": "Kitwe",
+    "province": "Copperbelt",
+    "areaName": "Mansa Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mrs. Agnes Mbewe",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -12.8339,
+        "longitude": 28.2439
+      },
+      {
+        "latitude": -12.7614,
+        "longitude": 28.1714
+      },
+      {
+        "latitude": -12.8634,
+        "longitude": 28.2734
+      },
+      {
+        "latitude": -12.736,
+        "longitude": 28.146
+      },
+      {
+        "latitude": -12.8385,
+        "longitude": 28.2485
+      },
+      {
+        "latitude": -12.7629,
+        "longitude": 28.1729
+      }
+    ],
+    "areaSizeHectares": 7451,
+    "population": 4962,
+    "neighboringAreas": [
+      "Sinda",
+      "Mufulira",
+      "Mwembezhi",
+      "Nakonde",
+      "Chama"
+    ],
+    "keyLandmarks": [
+      "Chief's Palace",
+      "Sports Ground",
+      "Community Center",
+      "River"
+    ],
+    "accessRoads": "7 main roads",
+    "lastSurveyDate": "2024-09-26T15:00:30.928897"
+  },
+  {
+    "id": "JM-0039",
+    "chiefdom": "Chief Nkana",
+    "district": "Kitwe",
+    "province": "Copperbelt",
+    "areaName": "Kafue Riverside Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mrs. Mary Phiri",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -12.854,
+        "longitude": 28.264
+      },
+      {
+        "latitude": -12.7597,
+        "longitude": 28.1697
+      },
+      {
+        "latitude": -12.8718,
+        "longitude": 28.2818
+      },
+      {
+        "latitude": -12.765,
+        "longitude": 28.175
+      },
+      {
+        "latitude": -12.8476,
+        "longitude": 28.2576
+      },
+      {
+        "latitude": -12.7559,
+        "longitude": 28.1659
+      },
+      {
+        "latitude": -12.8639,
+        "longitude": 28.2739
+      },
+      {
+        "latitude": -12.7473,
+        "longitude": 28.1573
+      }
+    ],
+    "areaSizeHectares": 18691,
+    "population": 6478,
+    "neighboringAreas": [
+      "Mufumbwe",
+      "Chalala"
+    ],
+    "keyLandmarks": [
+      "Sports Ground",
+      "School",
+      "Church",
+      "Community Center"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2024-05-31T15:00:30.928918"
+  },
+  {
+    "id": "JM-0040",
+    "chiefdom": "Chief Nkana",
+    "district": "Kitwe",
+    "province": "Copperbelt",
+    "areaName": "Mporokoso Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. John Banda",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -12.8676,
+        "longitude": 28.2776
+      },
+      {
+        "latitude": -12.7533,
+        "longitude": 28.1633
+      },
+      {
+        "latitude": -12.8392,
+        "longitude": 28.2492
+      },
+      {
+        "latitude": -12.7308,
+        "longitude": 28.1408
+      },
+      {
+        "latitude": -12.8294,
+        "longitude": 28.2394
+      },
+      {
+        "latitude": -12.7357,
+        "longitude": 28.1457
+      }
+    ],
+    "areaSizeHectares": 18012,
+    "population": 9108,
+    "neighboringAreas": [
+      "Chilanga",
+      "Nakatindi",
+      "Chalimbana",
+      "Kawambwa"
+    ],
+    "keyLandmarks": [
+      "River",
+      "Market"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2024-05-09T15:00:30.928935"
+  },
+  {
+    "id": "JM-0041",
+    "chiefdom": "Chief Madzimawe",
+    "district": "Chipata",
+    "province": "Eastern",
+    "areaName": "Chibombo Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mrs. Joyce Banda",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -13.6697,
+        "longitude": 32.6797
+      },
+      {
+        "latitude": -13.579,
+        "longitude": 32.589
+      },
+      {
+        "latitude": -13.6775,
+        "longitude": 32.6875
+      },
+      {
+        "latitude": -13.6136,
+        "longitude": 32.6236
+      }
+    ],
+    "areaSizeHectares": 14755,
+    "population": 7446,
+    "neighboringAreas": [
+      "Sinda",
+      "Chongwe Central",
+      "Katete"
+    ],
+    "keyLandmarks": [
+      "Hospital",
+      "Sports Ground"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2025-03-29T15:00:30.928950"
+  },
+  {
+    "id": "JM-0042",
+    "chiefdom": "Chief Madzimawe",
+    "district": "Chipata",
+    "province": "Eastern",
+    "areaName": "Sikanze Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mrs. Catherine Kasonde",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -13.6966,
+        "longitude": 32.7066
+      },
+      {
+        "latitude": -13.5925,
+        "longitude": 32.6025
+      },
+      {
+        "latitude": -13.709,
+        "longitude": 32.719
+      },
+      {
+        "latitude": -13.5781,
+        "longitude": 32.5881
+      }
+    ],
+    "areaSizeHectares": 12809,
+    "population": 5871,
+    "neighboringAreas": [
+      "Mambwe",
+      "Sesheke"
+    ],
+    "keyLandmarks": [
+      "Sports Ground",
+      "Church"
+    ],
+    "accessRoads": "8 main roads",
+    "lastSurveyDate": "2024-12-01T15:00:30.928966"
+  },
+  {
+    "id": "JM-0043",
+    "chiefdom": "Chief Madzimawe",
+    "district": "Chipata",
+    "province": "Eastern",
+    "areaName": "Leopards Hill Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. Patrick Zulu",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -13.7008,
+        "longitude": 32.7108
+      },
+      {
+        "latitude": -13.5941,
+        "longitude": 32.6041
+      },
+      {
+        "latitude": -13.7095,
+        "longitude": 32.7195
+      },
+      {
+        "latitude": -13.573,
+        "longitude": 32.583
+      },
+      {
+        "latitude": -13.6846,
+        "longitude": 32.6946
+      },
+      {
+        "latitude": -13.6069,
+        "longitude": 32.6169
+      },
+      {
+        "latitude": -13.7111,
+        "longitude": 32.7211
+      },
+      {
+        "latitude": -13.5713,
+        "longitude": 32.5813
+      }
+    ],
+    "areaSizeHectares": 12919,
+    "population": 8870,
+    "neighboringAreas": [
+      "Ndola",
+      "Mporokoso",
+      "Mbabala"
+    ],
+    "keyLandmarks": [
+      "Sacred Grove",
+      "Chief's Palace",
+      "School",
+      "Community Center",
+      "Mosque"
+    ],
+    "accessRoads": "7 main roads",
+    "lastSurveyDate": "2025-03-05T15:00:30.928986"
+  },
+  {
+    "id": "JM-0044",
+    "chiefdom": "Chief Madzimawe",
+    "district": "Chipata",
+    "province": "Eastern",
+    "areaName": "Samfya Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mrs. Joyce Banda",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -13.6912,
+        "longitude": 32.7012
+      },
+      {
+        "latitude": -13.6069,
+        "longitude": 32.6169
+      },
+      {
+        "latitude": -13.7009,
+        "longitude": 32.7109
+      },
+      {
+        "latitude": -13.6131,
+        "longitude": 32.6231
+      },
+      {
+        "latitude": -13.7002,
+        "longitude": 32.7102
+      },
+      {
+        "latitude": -13.5731,
+        "longitude": 32.5831
+      },
+      {
+        "latitude": -13.6654,
+        "longitude": 32.6754
+      },
+      {
+        "latitude": -13.5996,
+        "longitude": 32.6096
+      }
+    ],
+    "areaSizeHectares": 11727,
+    "population": 11410,
+    "neighboringAreas": [
+      "Kawambwa",
+      "Mporokoso",
+      "Mbala",
+      "Senanga",
+      "Samfya"
+    ],
+    "keyLandmarks": [
+      "School",
+      "Community Center",
+      "River",
+      "Sacred Grove"
+    ],
+    "accessRoads": "8 main roads",
+    "lastSurveyDate": "2024-12-17T15:00:30.929006"
+  },
+  {
+    "id": "JM-0045",
+    "chiefdom": "Chief Madzimawe",
+    "district": "Chipata",
+    "province": "Eastern",
+    "areaName": "Shangombo Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. Anthony Mulenga",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -13.7,
+        "longitude": 32.71
+      },
+      {
+        "latitude": -13.6075,
+        "longitude": 32.6175
+      },
+      {
+        "latitude": -13.6697,
+        "longitude": 32.6797
+      },
+      {
+        "latitude": -13.613,
+        "longitude": 32.623
+      },
+      {
+        "latitude": -13.6699,
+        "longitude": 32.6799
+      },
+      {
+        "latitude": -13.6141,
+        "longitude": 32.6241
+      }
+    ],
+    "areaSizeHectares": 13024,
+    "population": 6782,
+    "neighboringAreas": [
+      "Kaoma",
+      "Katoba",
+      "Petauke",
+      "Mpanshya",
+      "Chipapa"
+    ],
+    "keyLandmarks": [
+      "Sports Ground",
+      "Community Center",
+      "River",
+      "Mosque"
+    ],
+    "accessRoads": "6 main roads",
+    "lastSurveyDate": "2024-06-22T15:00:30.929025"
+  },
+  {
+    "id": "JM-0046",
+    "chiefdom": "Chief Nzamane",
+    "district": "Katete",
+    "province": "Eastern",
+    "areaName": "Kaputa Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. Joseph Lungu",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -14.1332,
+        "longitude": 32.1032
+      },
+      {
+        "latitude": -14.0055,
+        "longitude": 31.9755
+      },
+      {
+        "latitude": -14.141,
+        "longitude": 32.111
+      },
+      {
+        "latitude": -14.0209,
+        "longitude": 31.9909
+      },
+      {
+        "latitude": -14.1252,
+        "longitude": 32.0952
+      },
+      {
+        "latitude": -14.0136,
+        "longitude": 31.9836
+      },
+      {
+        "latitude": -14.1348,
+        "longitude": 32.1048
+      }
+    ],
+    "areaSizeHectares": 14390,
+    "population": 4461,
+    "neighboringAreas": [
+      "Makeni",
+      "Chipata",
+      "Mutumbi",
+      "Shangombo",
+      "Chadiza"
+    ],
+    "keyLandmarks": [
+      "Market",
+      "Community Center",
+      "School",
+      "Hospital",
+      "Sports Ground"
+    ],
+    "accessRoads": "6 main roads",
+    "lastSurveyDate": "2025-02-23T15:00:30.929045"
+  },
+  {
+    "id": "JM-0047",
+    "chiefdom": "Chief Nzamane",
+    "district": "Katete",
+    "province": "Eastern",
+    "areaName": "Vubwi Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mrs. Rose Mwila",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -14.1169,
+        "longitude": 32.0869
+      },
+      {
+        "latitude": -14.0027,
+        "longitude": 31.9727
+      },
+      {
+        "latitude": -14.1041,
+        "longitude": 32.0741
+      },
+      {
+        "latitude": -14.0146,
+        "longitude": 31.9846
+      }
+    ],
+    "areaSizeHectares": 19890,
+    "population": 8852,
+    "neighboringAreas": [
+      "Mbabala",
+      "Mumbwa",
+      "Chipapa",
+      "Lukulu",
+      "Mpika"
+    ],
+    "keyLandmarks": [
+      "Community Center",
+      "Chief's Palace"
+    ],
+    "accessRoads": "7 main roads",
+    "lastSurveyDate": "2025-01-05T15:00:30.929060"
+  },
+  {
+    "id": "JM-0048",
+    "chiefdom": "Chief Nzamane",
+    "district": "Katete",
+    "province": "Eastern",
+    "areaName": "Chibombo Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Rose Mwila",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -14.1139,
+        "longitude": 32.0839
+      },
+      {
+        "latitude": -14.0166,
+        "longitude": 31.9866
+      },
+      {
+        "latitude": -14.1164,
+        "longitude": 32.0864
+      },
+      {
+        "latitude": -14.0192,
+        "longitude": 31.9892
+      }
+    ],
+    "areaSizeHectares": 7192,
+    "population": 6628,
+    "neighboringAreas": [
+      "Kafue Riverside",
+      "Ndola",
+      "Kaputa",
+      "Leopards Hill",
+      "Kaunga"
+    ],
+    "keyLandmarks": [
+      "Chief's Palace",
+      "Mosque",
+      "Sacred Grove",
+      "Market",
+      "Church"
+    ],
+    "accessRoads": "8 main roads",
+    "lastSurveyDate": "2024-07-01T15:00:30.929076"
+  },
+  {
+    "id": "JM-0049",
+    "chiefdom": "Chief Nzamane",
+    "district": "Katete",
+    "province": "Eastern",
+    "areaName": "Chipapa Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Christine Kunda",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -14.1332,
+        "longitude": 32.1032
+      },
+      {
+        "latitude": -14.016,
+        "longitude": 31.986
+      },
+      {
+        "latitude": -14.1259,
+        "longitude": 32.0959
+      },
+      {
+        "latitude": -14.0164,
+        "longitude": 31.9864
+      },
+      {
+        "latitude": -14.111,
+        "longitude": 32.081
+      },
+      {
+        "latitude": -14.043,
+        "longitude": 32.013
+      },
+      {
+        "latitude": -14.1003,
+        "longitude": 32.0703
+      },
+      {
+        "latitude": -14.0274,
+        "longitude": 31.9974
+      }
+    ],
+    "areaSizeHectares": 12833,
+    "population": 11116,
+    "neighboringAreas": [
+      "Luangwa",
+      "Ngwerere"
+    ],
+    "keyLandmarks": [
+      "Sacred Grove",
+      "River",
+      "Hospital",
+      "Chief's Palace",
+      "Community Center"
+    ],
+    "accessRoads": "6 main roads",
+    "lastSurveyDate": "2024-07-27T15:00:30.929096"
+  },
+  {
+    "id": "JM-0050",
+    "chiefdom": "Chief Nzamane",
+    "district": "Katete",
+    "province": "Eastern",
+    "areaName": "Mkushi Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. John Banda",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -14.1255,
+        "longitude": 32.0955
+      },
+      {
+        "latitude": -14.0237,
+        "longitude": 31.9937
+      },
+      {
+        "latitude": -14.1391,
+        "longitude": 32.1091
+      },
+      {
+        "latitude": -14.0049,
+        "longitude": 31.9749
+      }
+    ],
+    "areaSizeHectares": 17417,
+    "population": 11640,
+    "neighboringAreas": [
+      "Senanga",
+      "Serenje"
+    ],
+    "keyLandmarks": [
+      "Market",
+      "Church",
+      "Sacred Grove",
+      "Chief's Palace",
+      "School"
+    ],
+    "accessRoads": "4 main roads",
+    "lastSurveyDate": "2024-03-07T15:00:30.929111"
+  },
+  {
+    "id": "JM-0051",
+    "chiefdom": "Chief Kawaza",
+    "district": "Lundazi",
+    "province": "Eastern",
+    "areaName": "Sinazongwe Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. Robert Ngoma",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -12.3164,
+        "longitude": 33.2064
+      },
+      {
+        "latitude": -12.2451,
+        "longitude": 33.1351
+      },
+      {
+        "latitude": -12.342,
+        "longitude": 33.232
+      },
+      {
+        "latitude": -12.2448,
+        "longitude": 33.1348
+      }
+    ],
+    "areaSizeHectares": 12328,
+    "population": 3697,
+    "neighboringAreas": [
+      "Kaunga",
+      "Mumbwa"
+    ],
+    "keyLandmarks": [
+      "Sacred Grove",
+      "Market",
+      "Mosque",
+      "Chief's Palace"
+    ],
+    "accessRoads": "5 main roads",
+    "lastSurveyDate": "2024-01-27T15:00:30.929126"
+  },
+  {
+    "id": "JM-0052",
+    "chiefdom": "Chief Kawaza",
+    "district": "Lundazi",
+    "province": "Eastern",
+    "areaName": "Mkushi Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. John Banda",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -12.351,
+        "longitude": 33.241
+      },
+      {
+        "latitude": -12.2623,
+        "longitude": 33.1523
+      },
+      {
+        "latitude": -12.3295,
+        "longitude": 33.2195
+      },
+      {
+        "latitude": -12.2395,
+        "longitude": 33.1295
+      },
+      {
+        "latitude": -12.3291,
+        "longitude": 33.2191
+      },
+      {
+        "latitude": -12.2516,
+        "longitude": 33.1416
+      },
+      {
+        "latitude": -12.3641,
+        "longitude": 33.2541
+      }
+    ],
+    "areaSizeHectares": 10377,
+    "population": 11032,
+    "neighboringAreas": [
+      "Livingstone",
+      "Lunsemfwa"
+    ],
+    "keyLandmarks": [
+      "Community Center",
+      "Church"
+    ],
+    "accessRoads": "6 main roads",
+    "lastSurveyDate": "2024-07-12T15:00:30.929144"
+  },
+  {
+    "id": "JM-0053",
+    "chiefdom": "Chief Kawaza",
+    "district": "Lundazi",
+    "province": "Eastern",
+    "areaName": "Zambezi Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mrs. Linda Chiluba",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -12.3467,
+        "longitude": 33.2367
+      },
+      {
+        "latitude": -12.2642,
+        "longitude": 33.1542
+      },
+      {
+        "latitude": -12.3505,
+        "longitude": 33.2405
+      },
+      {
+        "latitude": -12.2611,
+        "longitude": 33.1511
+      },
+      {
+        "latitude": -12.3526,
+        "longitude": 33.2426
+      },
+      {
+        "latitude": -12.2423,
+        "longitude": 33.1323
+      },
+      {
+        "latitude": -12.3242,
+        "longitude": 33.2142
+      },
+      {
+        "latitude": -12.2519,
+        "longitude": 33.1419
+      }
+    ],
+    "areaSizeHectares": 13436,
+    "population": 7191,
+    "neighboringAreas": [
+      "Chongwe Central",
+      "Kitwe",
+      "Serenje",
+      "Mpika",
+      "Ndola"
+    ],
+    "keyLandmarks": [
+      "Sacred Grove",
+      "River",
+      "Community Center",
+      "Church"
+    ],
+    "accessRoads": "7 main roads",
+    "lastSurveyDate": "2025-03-11T15:00:30.929164"
+  },
+  {
+    "id": "JM-0054",
+    "chiefdom": "Chief Kawaza",
+    "district": "Lundazi",
+    "province": "Eastern",
+    "areaName": "Senanga Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. David Mwale",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -12.3365,
+        "longitude": 33.2265
+      },
+      {
+        "latitude": -12.2634,
+        "longitude": 33.1534
+      },
+      {
+        "latitude": -12.3358,
+        "longitude": 33.2258
+      },
+      {
+        "latitude": -12.2288,
+        "longitude": 33.1188
+      },
+      {
+        "latitude": -12.3224,
+        "longitude": 33.2124
+      },
+      {
+        "latitude": -12.2407,
+        "longitude": 33.1307
+      },
+      {
+        "latitude": -12.3508,
+        "longitude": 33.2408
+      }
+    ],
+    "areaSizeHectares": 2622,
+    "population": 5975,
+    "neighboringAreas": [
+      "Chibombo",
+      "Nakatindi",
+      "Kanakantapa"
+    ],
+    "keyLandmarks": [
+      "Mosque",
+      "School",
+      "Hospital"
+    ],
+    "accessRoads": "6 main roads",
+    "lastSurveyDate": "2024-07-07T15:00:30.929182"
+  },
+  {
+    "id": "JM-0055",
+    "chiefdom": "Chief Kawaza",
+    "district": "Lundazi",
+    "province": "Eastern",
+    "areaName": "Chipapa Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mrs. Dorothy Hamoonga",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -12.354,
+        "longitude": 33.244
+      },
+      {
+        "latitude": -12.2268,
+        "longitude": 33.1168
+      },
+      {
+        "latitude": -12.316,
+        "longitude": 33.206
+      },
+      {
+        "latitude": -12.2574,
+        "longitude": 33.1474
+      },
+      {
+        "latitude": -12.3647,
+        "longitude": 33.2547
+      },
+      {
+        "latitude": -12.2295,
+        "longitude": 33.1195
+      }
+    ],
+    "areaSizeHectares": 11388,
+    "population": 1177,
+    "neighboringAreas": [
+      "Mumbwa",
+      "Serenje",
+      "Munyumba",
+      "Luwingu"
+    ],
+    "keyLandmarks": [
+      "Community Center",
+      "Market",
+      "School",
+      "Chief's Palace"
+    ],
+    "accessRoads": "2 main roads",
+    "lastSurveyDate": "2024-05-18T15:00:30.929199"
+  },
+  {
+    "id": "JM-0056",
+    "chiefdom": "Chief Mwewa",
+    "district": "Mansa",
+    "province": "Luapula",
+    "areaName": "Gwembe Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Agnes Mbewe",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -11.2311,
+        "longitude": 28.9211
+      },
+      {
+        "latitude": -11.1739,
+        "longitude": 28.8639
+      },
+      {
+        "latitude": -11.2353,
+        "longitude": 28.9253
+      },
+      {
+        "latitude": -11.1556,
+        "longitude": 28.8456
+      },
+      {
+        "latitude": -11.2537,
+        "longitude": 28.9437
+      },
+      {
+        "latitude": -11.1494,
+        "longitude": 28.8394
+      },
+      {
+        "latitude": -11.2358,
+        "longitude": 28.9258
+      }
+    ],
+    "areaSizeHectares": 9864,
+    "population": 1431,
+    "neighboringAreas": [
+      "Gwembe",
+      "Senanga"
+    ],
+    "keyLandmarks": [
+      "Chief's Palace",
+      "Community Center",
+      "Market",
+      "Sacred Grove",
+      "Sports Ground"
+    ],
+    "accessRoads": "6 main roads",
+    "lastSurveyDate": "2024-12-02T15:00:30.929218"
+  },
+  {
+    "id": "JM-0057",
+    "chiefdom": "Chief Mwewa",
+    "district": "Mansa",
+    "province": "Luapula",
+    "areaName": "Isoka Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. George Nkonde",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -11.2465,
+        "longitude": 28.9365
+      },
+      {
+        "latitude": -11.1542,
+        "longitude": 28.8442
+      },
+      {
+        "latitude": -11.2395,
+        "longitude": 28.9295
+      },
+      {
+        "latitude": -11.1252,
+        "longitude": 28.8152
+      },
+      {
+        "latitude": -11.2509,
+        "longitude": 28.9409
+      },
+      {
+        "latitude": -11.1619,
+        "longitude": 28.8519
+      },
+      {
+        "latitude": -11.2427,
+        "longitude": 28.9327
+      },
+      {
+        "latitude": -11.125,
+        "longitude": 28.815
+      }
+    ],
+    "areaSizeHectares": 5621,
+    "population": 4236,
+    "neighboringAreas": [
+      "Kasempa",
+      "Kalabo"
+    ],
+    "keyLandmarks": [
+      "River",
+      "Hospital",
+      "Sports Ground",
+      "Chief's Palace"
+    ],
+    "accessRoads": "8 main roads",
+    "lastSurveyDate": "2025-01-24T15:00:30.929238"
+  },
+  {
+    "id": "JM-0058",
+    "chiefdom": "Chief Mwewa",
+    "district": "Mansa",
+    "province": "Luapula",
+    "areaName": "Meanwood Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mrs. Faith Siame",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -11.2705,
+        "longitude": 28.9605
+      },
+      {
+        "latitude": -11.1422,
+        "longitude": 28.8322
+      },
+      {
+        "latitude": -11.2531,
+        "longitude": 28.9431
+      },
+      {
+        "latitude": -11.1742,
+        "longitude": 28.8642
+      },
+      {
+        "latitude": -11.2292,
+        "longitude": 28.9192
+      },
+      {
+        "latitude": -11.1267,
+        "longitude": 28.8167
+      },
+      {
+        "latitude": -11.2613,
+        "longitude": 28.9513
+      }
+    ],
+    "areaSizeHectares": 19274,
+    "population": 10271,
+    "neighboringAreas": [
+      "Palabana",
+      "Monze"
+    ],
+    "keyLandmarks": [
+      "School",
+      "River",
+      "Market",
+      "Community Center",
+      "Chief's Palace"
+    ],
+    "accessRoads": "6 main roads",
+    "lastSurveyDate": "2024-04-22T15:00:30.929256"
+  },
+  {
+    "id": "JM-0059",
+    "chiefdom": "Chief Mwewa",
+    "district": "Mansa",
+    "province": "Luapula",
+    "areaName": "Chalimbana Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. Anthony Mulenga",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -11.2664,
+        "longitude": 28.9564
+      },
+      {
+        "latitude": -11.1726,
+        "longitude": 28.8626
+      },
+      {
+        "latitude": -11.2351,
+        "longitude": 28.9251
+      },
+      {
+        "latitude": -11.1352,
+        "longitude": 28.8252
+      },
+      {
+        "latitude": -11.2539,
+        "longitude": 28.9439
+      }
+    ],
+    "areaSizeHectares": 9037,
+    "population": 2891,
+    "neighboringAreas": [
+      "Lunsemfwa",
+      "Choma",
+      "Solwezi",
+      "Chama"
+    ],
+    "keyLandmarks": [
+      "Hospital",
+      "School",
+      "Community Center",
+      "Chief's Palace"
+    ],
+    "accessRoads": "2 main roads",
+    "lastSurveyDate": "2024-11-11T15:00:30.929304"
+  },
+  {
+    "id": "JM-0060",
+    "chiefdom": "Chief Mwewa",
+    "district": "Mansa",
+    "province": "Luapula",
+    "areaName": "Choma Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. Michael Nyirenda",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -11.2569,
+        "longitude": 28.9469
+      },
+      {
+        "latitude": -11.168,
+        "longitude": 28.858
+      },
+      {
+        "latitude": -11.2275,
+        "longitude": 28.9175
+      },
+      {
+        "latitude": -11.1379,
+        "longitude": 28.8279
+      },
+      {
+        "latitude": -11.2296,
+        "longitude": 28.9196
+      },
+      {
+        "latitude": -11.1497,
+        "longitude": 28.8397
+      }
+    ],
+    "areaSizeHectares": 2497,
+    "population": 11622,
+    "neighboringAreas": [
+      "Kaoma",
+      "Kasama",
+      "Siavonga"
+    ],
+    "keyLandmarks": [
+      "Community Center",
+      "Mosque"
+    ],
+    "accessRoads": "4 main roads",
+    "lastSurveyDate": "2024-10-27T15:00:30.929323"
+  },
+  {
+    "id": "JM-0061",
+    "chiefdom": "Chief Kashiba",
+    "district": "Samfya",
+    "province": "Luapula",
+    "areaName": "Meanwood Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Beatrice Nkhoma",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -11.3905,
+        "longitude": 29.5805
+      },
+      {
+        "latitude": -11.3038,
+        "longitude": 29.4938
+      },
+      {
+        "latitude": -11.4179,
+        "longitude": 29.6079
+      },
+      {
+        "latitude": -11.3219,
+        "longitude": 29.5119
+      },
+      {
+        "latitude": -11.4165,
+        "longitude": 29.6065
+      }
+    ],
+    "areaSizeHectares": 11710,
+    "population": 5647,
+    "neighboringAreas": [
+      "Nakatindi",
+      "Solwezi"
+    ],
+    "keyLandmarks": [
+      "School",
+      "Market",
+      "Community Center",
+      "Chief's Palace",
+      "Sacred Grove"
+    ],
+    "accessRoads": "8 main roads",
+    "lastSurveyDate": "2025-01-24T15:00:30.929340"
+  },
+  {
+    "id": "JM-0062",
+    "chiefdom": "Chief Kashiba",
+    "district": "Samfya",
+    "province": "Luapula",
+    "areaName": "Nakonde Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mrs. Dorothy Hamoonga",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -11.4278,
+        "longitude": 29.6178
+      },
+      {
+        "latitude": -11.2902,
+        "longitude": 29.4802
+      },
+      {
+        "latitude": -11.4079,
+        "longitude": 29.5979
+      },
+      {
+        "latitude": -11.3053,
+        "longitude": 29.4953
+      }
+    ],
+    "areaSizeHectares": 17739,
+    "population": 7132,
+    "neighboringAreas": [
+      "Choma",
+      "Chama",
+      "Kasempa"
+    ],
+    "keyLandmarks": [
+      "Mosque",
+      "Hospital",
+      "Chief's Palace",
+      "School"
+    ],
+    "accessRoads": "2 main roads",
+    "lastSurveyDate": "2024-08-20T15:00:30.929357"
+  },
+  {
+    "id": "JM-0063",
+    "chiefdom": "Chief Kashiba",
+    "district": "Samfya",
+    "province": "Luapula",
+    "areaName": "Mporokoso Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. Robert Ngoma",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -11.4016,
+        "longitude": 29.5916
+      },
+      {
+        "latitude": -11.3084,
+        "longitude": 29.4984
+      },
+      {
+        "latitude": -11.3899,
+        "longitude": 29.5799
+      },
+      {
+        "latitude": -11.3027,
+        "longitude": 29.4927
+      },
+      {
+        "latitude": -11.3861,
+        "longitude": 29.5761
+      },
+      {
+        "latitude": -11.3145,
+        "longitude": 29.5045
+      },
+      {
+        "latitude": -11.4311,
+        "longitude": 29.6211
+      },
+      {
+        "latitude": -11.2889,
+        "longitude": 29.4789
+      }
+    ],
+    "areaSizeHectares": 14030,
+    "population": 9286,
+    "neighboringAreas": [
+      "Serenje",
+      "Leopards Hill",
+      "Kaputa"
+    ],
+    "keyLandmarks": [
+      "Sports Ground",
+      "River"
+    ],
+    "accessRoads": "6 main roads",
+    "lastSurveyDate": "2025-01-18T15:00:30.929376"
+  },
+  {
+    "id": "JM-0064",
+    "chiefdom": "Chief Kashiba",
+    "district": "Samfya",
+    "province": "Luapula",
+    "areaName": "Kabompo Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. Andrew Sichone",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -11.3878,
+        "longitude": 29.5778
+      },
+      {
+        "latitude": -11.3058,
+        "longitude": 29.4958
+      },
+      {
+        "latitude": -11.3959,
+        "longitude": 29.5859
+      },
+      {
+        "latitude": -11.2901,
+        "longitude": 29.4801
+      },
+      {
+        "latitude": -11.408,
+        "longitude": 29.598
+      },
+      {
+        "latitude": -11.3007,
+        "longitude": 29.4907
+      },
+      {
+        "latitude": -11.3914,
+        "longitude": 29.5814
+      }
+    ],
+    "areaSizeHectares": 13942,
+    "population": 3470,
+    "neighboringAreas": [
+      "Kanakantapa",
+      "Solwezi",
+      "Choma"
+    ],
+    "keyLandmarks": [
+      "Sports Ground",
+      "School"
+    ],
+    "accessRoads": "7 main roads",
+    "lastSurveyDate": "2024-12-02T15:00:30.929395"
+  },
+  {
+    "id": "JM-0065",
+    "chiefdom": "Chief Kashiba",
+    "district": "Samfya",
+    "province": "Luapula",
+    "areaName": "Mporokoso Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Helen Kalaba",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -11.4294,
+        "longitude": 29.6194
+      },
+      {
+        "latitude": -11.3253,
+        "longitude": 29.5153
+      },
+      {
+        "latitude": -11.4069,
+        "longitude": 29.5969
+      },
+      {
+        "latitude": -11.3235,
+        "longitude": 29.5135
+      },
+      {
+        "latitude": -11.4228,
+        "longitude": 29.6128
+      }
+    ],
+    "areaSizeHectares": 10993,
+    "population": 5062,
+    "neighboringAreas": [
+      "Mufulira",
+      "Mbabala",
+      "Sikanze"
+    ],
+    "keyLandmarks": [
+      "Sacred Grove",
+      "Hospital",
+      "Sports Ground",
+      "School"
+    ],
+    "accessRoads": "8 main roads",
+    "lastSurveyDate": "2024-08-31T15:00:30.929411"
+  },
+  {
+    "id": "JM-0066",
+    "chiefdom": "Chief Kabanda",
+    "district": "Nchelenge",
+    "province": "Luapula",
+    "areaName": "Chipapa Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Linda Chiluba",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -9.4173,
+        "longitude": 28.8073
+      },
+      {
+        "latitude": -9.2826,
+        "longitude": 28.6726
+      },
+      {
+        "latitude": -9.3765,
+        "longitude": 28.7665
+      },
+      {
+        "latitude": -9.3192,
+        "longitude": 28.7092
+      },
+      {
+        "latitude": -9.4164,
+        "longitude": 28.8064
+      },
+      {
+        "latitude": -9.3184,
+        "longitude": 28.7084
+      }
+    ],
+    "areaSizeHectares": 14057,
+    "population": 11760,
+    "neighboringAreas": [
+      "Luangwa",
+      "Mkushi",
+      "Shangombo",
+      "Choma",
+      "Sinda"
+    ],
+    "keyLandmarks": [
+      "River",
+      "Community Center",
+      "Sports Ground",
+      "Church"
+    ],
+    "accessRoads": "8 main roads",
+    "lastSurveyDate": "2025-04-15T15:00:30.929484"
+  },
+  {
+    "id": "JM-0067",
+    "chiefdom": "Chief Kabanda",
+    "district": "Nchelenge",
+    "province": "Luapula",
+    "areaName": "Kalomo Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. Anthony Mulenga",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -9.3957,
+        "longitude": 28.7857
+      },
+      {
+        "latitude": -9.2803,
+        "longitude": 28.6703
+      },
+      {
+        "latitude": -9.3851,
+        "longitude": 28.7751
+      },
+      {
+        "latitude": -9.3112,
+        "longitude": 28.7012
+      }
+    ],
+    "areaSizeHectares": 11806,
+    "population": 8102,
+    "neighboringAreas": [
+      "Nyimba",
+      "Gwembe",
+      "Mbabala",
+      "Mumbwa"
+    ],
+    "keyLandmarks": [
+      "Sacred Grove",
+      "River",
+      "Mosque",
+      "Sports Ground"
+    ],
+    "accessRoads": "5 main roads",
+    "lastSurveyDate": "2025-05-22T15:00:30.929500"
+  },
+  {
+    "id": "JM-0068",
+    "chiefdom": "Chief Kabanda",
+    "district": "Nchelenge",
+    "province": "Luapula",
+    "areaName": "Petauke Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mrs. Margaret Musonda",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -9.4144,
+        "longitude": 28.8044
+      },
+      {
+        "latitude": -9.2808,
+        "longitude": 28.6708
+      },
+      {
+        "latitude": -9.4076,
+        "longitude": 28.7976
+      },
+      {
+        "latitude": -9.2936,
+        "longitude": 28.6836
+      },
+      {
+        "latitude": -9.4028,
+        "longitude": 28.7928
+      },
+      {
+        "latitude": -9.2864,
+        "longitude": 28.6764
+      },
+      {
+        "latitude": -9.4069,
+        "longitude": 28.7969
+      },
+      {
+        "latitude": -9.3013,
+        "longitude": 28.6913
+      }
+    ],
+    "areaSizeHectares": 17773,
+    "population": 2583,
+    "neighboringAreas": [
+      "Chainda",
+      "Chongwe Central"
+    ],
+    "keyLandmarks": [
+      "School",
+      "Chief's Palace",
+      "Sacred Grove",
+      "Mosque"
+    ],
+    "accessRoads": "6 main roads",
+    "lastSurveyDate": "2024-05-06T15:00:30.929521"
+  },
+  {
+    "id": "JM-0069",
+    "chiefdom": "Chief Kabanda",
+    "district": "Nchelenge",
+    "province": "Luapula",
+    "areaName": "Kasempa Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Florence Mwanza",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -9.4073,
+        "longitude": 28.7973
+      },
+      {
+        "latitude": -9.2895,
+        "longitude": 28.6795
+      },
+      {
+        "latitude": -9.3752,
+        "longitude": 28.7652
+      },
+      {
+        "latitude": -9.3236,
+        "longitude": 28.7136
+      },
+      {
+        "latitude": -9.4008,
+        "longitude": 28.7908
+      },
+      {
+        "latitude": -9.2935,
+        "longitude": 28.6835
+      },
+      {
+        "latitude": -9.3941,
+        "longitude": 28.7841
+      }
+    ],
+    "areaSizeHectares": 18954,
+    "population": 4800,
+    "neighboringAreas": [
+      "Mutumbi",
+      "Chilanga",
+      "Mufumbwe"
+    ],
+    "keyLandmarks": [
+      "Sports Ground",
+      "Market"
+    ],
+    "accessRoads": "5 main roads",
+    "lastSurveyDate": "2025-06-07T15:00:30.929539"
+  },
+  {
+    "id": "JM-0070",
+    "chiefdom": "Chief Kabanda",
+    "district": "Nchelenge",
+    "province": "Luapula",
+    "areaName": "Kitwe Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. Anthony Mulenga",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -9.4065,
+        "longitude": 28.7965
+      },
+      {
+        "latitude": -9.3167,
+        "longitude": 28.7067
+      },
+      {
+        "latitude": -9.3978,
+        "longitude": 28.7878
+      },
+      {
+        "latitude": -9.3091,
+        "longitude": 28.6991
+      },
+      {
+        "latitude": -9.4122,
+        "longitude": 28.8022
+      }
+    ],
+    "areaSizeHectares": 5132,
+    "population": 8205,
+    "neighboringAreas": [
+      "Luanshya",
+      "Petauke"
+    ],
+    "keyLandmarks": [
+      "Church",
+      "Mosque",
+      "Sacred Grove",
+      "Sports Ground",
+      "Hospital"
+    ],
+    "accessRoads": "5 main roads",
+    "lastSurveyDate": "2024-10-23T15:00:30.929556"
+  },
+  {
+    "id": "JM-0071",
+    "chiefdom": "Senior Chief Chitimukulu",
+    "district": "Kasama",
+    "province": "Northern",
+    "areaName": "Chipata Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Mary Phiri",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -10.2506,
+        "longitude": 31.2206
+      },
+      {
+        "latitude": -10.1794,
+        "longitude": 31.1494
+      },
+      {
+        "latitude": -10.2675,
+        "longitude": 31.2375
+      },
+      {
+        "latitude": -10.1535,
+        "longitude": 31.1235
+      },
+      {
+        "latitude": -10.2773,
+        "longitude": 31.2473
+      },
+      {
+        "latitude": -10.1636,
+        "longitude": 31.1336
+      },
+      {
+        "latitude": -10.242,
+        "longitude": 31.212
+      }
+    ],
+    "areaSizeHectares": 17096,
+    "population": 1002,
+    "neighboringAreas": [
+      "Mufumbwe",
+      "Makeni",
+      "Choma"
+    ],
+    "keyLandmarks": [
+      "Sports Ground",
+      "School",
+      "River",
+      "Community Center",
+      "Church"
+    ],
+    "accessRoads": "2 main roads",
+    "lastSurveyDate": "2025-03-19T15:00:30.929576"
+  },
+  {
+    "id": "JM-0072",
+    "chiefdom": "Senior Chief Chitimukulu",
+    "district": "Kasama",
+    "province": "Northern",
+    "areaName": "Kasama Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. Andrew Sichone",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -10.2594,
+        "longitude": 31.2294
+      },
+      {
+        "latitude": -10.1479,
+        "longitude": 31.1179
+      },
+      {
+        "latitude": -10.2633,
+        "longitude": 31.2333
+      },
+      {
+        "latitude": -10.144,
+        "longitude": 31.114
+      },
+      {
+        "latitude": -10.2629,
+        "longitude": 31.2329
+      },
+      {
+        "latitude": -10.1537,
+        "longitude": 31.1237
+      }
+    ],
+    "areaSizeHectares": 6759,
+    "population": 11178,
+    "neighboringAreas": [
+      "Ngwerere",
+      "Palabana",
+      "Shangombo",
+      "Chongwe Central",
+      "Kalabo"
+    ],
+    "keyLandmarks": [
+      "Hospital",
+      "School"
+    ],
+    "accessRoads": "8 main roads",
+    "lastSurveyDate": "2024-10-01T15:00:30.929596"
+  },
+  {
+    "id": "JM-0073",
+    "chiefdom": "Senior Chief Chitimukulu",
+    "district": "Kasama",
+    "province": "Northern",
+    "areaName": "Kaputa Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mrs. Margaret Musonda",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -10.2713,
+        "longitude": 31.2413
+      },
+      {
+        "latitude": -10.1577,
+        "longitude": 31.1277
+      },
+      {
+        "latitude": -10.2605,
+        "longitude": 31.2305
+      },
+      {
+        "latitude": -10.1487,
+        "longitude": 31.1187
+      },
+      {
+        "latitude": -10.2597,
+        "longitude": 31.2297
+      },
+      {
+        "latitude": -10.153,
+        "longitude": 31.123
+      },
+      {
+        "latitude": -10.2572,
+        "longitude": 31.2272
+      }
+    ],
+    "areaSizeHectares": 6386,
+    "population": 1292,
+    "neighboringAreas": [
+      "Mambwe",
+      "Kitwe",
+      "Kapiri",
+      "Sinazongwe",
+      "Chipapa"
+    ],
+    "keyLandmarks": [
+      "Community Center",
+      "Hospital",
+      "River",
+      "Chief's Palace"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2024-03-02T15:00:30.929617"
+  },
+  {
+    "id": "JM-0074",
+    "chiefdom": "Senior Chief Chitimukulu",
+    "district": "Kasama",
+    "province": "Northern",
+    "areaName": "Livingstone Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. Peter Sikalonga",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -10.2605,
+        "longitude": 31.2305
+      },
+      {
+        "latitude": -10.1498,
+        "longitude": 31.1198
+      },
+      {
+        "latitude": -10.2813,
+        "longitude": 31.2513
+      },
+      {
+        "latitude": -10.16,
+        "longitude": 31.13
+      },
+      {
+        "latitude": -10.2573,
+        "longitude": 31.2273
+      },
+      {
+        "latitude": -10.1592,
+        "longitude": 31.1292
+      },
+      {
+        "latitude": -10.2598,
+        "longitude": 31.2298
+      },
+      {
+        "latitude": -10.1767,
+        "longitude": 31.1467
+      }
+    ],
+    "areaSizeHectares": 19584,
+    "population": 8723,
+    "neighboringAreas": [
+      "Serenje",
+      "Mutumbi",
+      "Kanakantapa"
+    ],
+    "keyLandmarks": [
+      "River",
+      "Mosque"
+    ],
+    "accessRoads": "4 main roads",
+    "lastSurveyDate": "2024-12-11T15:00:30.929637"
+  },
+  {
+    "id": "JM-0075",
+    "chiefdom": "Senior Chief Chitimukulu",
+    "district": "Kasama",
+    "province": "Northern",
+    "areaName": "Chipata Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. Peter Sikalonga",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -10.2709,
+        "longitude": 31.2409
+      },
+      {
+        "latitude": -10.1732,
+        "longitude": 31.1432
+      },
+      {
+        "latitude": -10.2597,
+        "longitude": 31.2297
+      },
+      {
+        "latitude": -10.1446,
+        "longitude": 31.1146
+      },
+      {
+        "latitude": -10.2645,
+        "longitude": 31.2345
+      }
+    ],
+    "areaSizeHectares": 16512,
+    "population": 1211,
+    "neighboringAreas": [
+      "Mansa",
+      "Chainda"
+    ],
+    "keyLandmarks": [
+      "Community Center",
+      "Sports Ground",
+      "Sacred Grove",
+      "Chief's Palace"
+    ],
+    "accessRoads": "8 main roads",
+    "lastSurveyDate": "2025-07-20T15:00:30.929655"
+  },
+  {
+    "id": "JM-0076",
+    "chiefdom": "Chief Tafuna",
+    "district": "Mbala",
+    "province": "Northern",
+    "areaName": "Isoka Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. Steven Daka",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -8.8742,
+        "longitude": 31.4042
+      },
+      {
+        "latitude": -8.7823,
+        "longitude": 31.3123
+      },
+      {
+        "latitude": -8.8665,
+        "longitude": 31.3965
+      },
+      {
+        "latitude": -8.7806,
+        "longitude": 31.3106
+      },
+      {
+        "latitude": -8.9044,
+        "longitude": 31.4344
+      },
+      {
+        "latitude": -8.8048,
+        "longitude": 31.3348
+      },
+      {
+        "latitude": -8.9147,
+        "longitude": 31.4447
+      },
+      {
+        "latitude": -8.8125,
+        "longitude": 31.3425
+      }
+    ],
+    "areaSizeHectares": 15087,
+    "population": 11049,
+    "neighboringAreas": [
+      "Mufumbwe",
+      "Chipapa",
+      "Chama",
+      "Chingola"
+    ],
+    "keyLandmarks": [
+      "River",
+      "Market",
+      "Sports Ground"
+    ],
+    "accessRoads": "7 main roads",
+    "lastSurveyDate": "2024-04-22T15:00:30.929677"
+  },
+  {
+    "id": "JM-0077",
+    "chiefdom": "Chief Tafuna",
+    "district": "Mbala",
+    "province": "Northern",
+    "areaName": "Mbala Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Margaret Musonda",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -8.8923,
+        "longitude": 31.4223
+      },
+      {
+        "latitude": -8.8016,
+        "longitude": 31.3316
+      },
+      {
+        "latitude": -8.9062,
+        "longitude": 31.4362
+      },
+      {
+        "latitude": -8.7665,
+        "longitude": 31.2965
+      },
+      {
+        "latitude": -8.8874,
+        "longitude": 31.4174
+      }
+    ],
+    "areaSizeHectares": 6417,
+    "population": 7737,
+    "neighboringAreas": [
+      "Lilayi",
+      "Sinda",
+      "Kalulushi"
+    ],
+    "keyLandmarks": [
+      "Sports Ground",
+      "Community Center",
+      "Mosque"
+    ],
+    "accessRoads": "4 main roads",
+    "lastSurveyDate": "2024-03-07T15:00:30.929693"
+  },
+  {
+    "id": "JM-0078",
+    "chiefdom": "Chief Tafuna",
+    "district": "Mbala",
+    "province": "Northern",
+    "areaName": "Choma Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. Robert Ngoma",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -8.8735,
+        "longitude": 31.4035
+      },
+      {
+        "latitude": -8.7909,
+        "longitude": 31.3209
+      },
+      {
+        "latitude": -8.8861,
+        "longitude": 31.4161
+      },
+      {
+        "latitude": -8.7844,
+        "longitude": 31.3144
+      }
+    ],
+    "areaSizeHectares": 18908,
+    "population": 1428,
+    "neighboringAreas": [
+      "Mambwe",
+      "Mufumbwe"
+    ],
+    "keyLandmarks": [
+      "Church",
+      "Hospital",
+      "School"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2024-06-17T15:00:30.929709"
+  },
+  {
+    "id": "JM-0079",
+    "chiefdom": "Chief Tafuna",
+    "district": "Mbala",
+    "province": "Northern",
+    "areaName": "Serenje Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Alice Mwansa",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -8.9073,
+        "longitude": 31.4373
+      },
+      {
+        "latitude": -8.7908,
+        "longitude": 31.3208
+      },
+      {
+        "latitude": -8.8705,
+        "longitude": 31.4005
+      },
+      {
+        "latitude": -8.7676,
+        "longitude": 31.2976
+      }
+    ],
+    "areaSizeHectares": 12749,
+    "population": 4551,
+    "neighboringAreas": [
+      "Gwembe",
+      "Chama",
+      "Isoka",
+      "Mongu",
+      "Mansa"
+    ],
+    "keyLandmarks": [
+      "Mosque",
+      "Market",
+      "Community Center",
+      "Chief's Palace",
+      "Church"
+    ],
+    "accessRoads": "6 main roads",
+    "lastSurveyDate": "2024-08-01T15:00:30.929726"
+  },
+  {
+    "id": "JM-0080",
+    "chiefdom": "Chief Tafuna",
+    "district": "Mbala",
+    "province": "Northern",
+    "areaName": "Kitwe Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. Lawrence Kapasa",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -8.8924,
+        "longitude": 31.4224
+      },
+      {
+        "latitude": -8.8082,
+        "longitude": 31.3382
+      },
+      {
+        "latitude": -8.8929,
+        "longitude": 31.4229
+      },
+      {
+        "latitude": -8.8141,
+        "longitude": 31.3441
+      }
+    ],
+    "areaSizeHectares": 7207,
+    "population": 8470,
+    "neighboringAreas": [
+      "Mufumbwe",
+      "Chinsali",
+      "Mumbwa",
+      "Kasempa",
+      "Mazabuka"
+    ],
+    "keyLandmarks": [
+      "Mosque",
+      "Church",
+      "Chief's Palace",
+      "School",
+      "Community Center"
+    ],
+    "accessRoads": "2 main roads",
+    "lastSurveyDate": "2024-02-09T15:00:30.929743"
+  },
+  {
+    "id": "JM-0081",
+    "chiefdom": "Chief Muyombe",
+    "district": "Mpika",
+    "province": "Northern",
+    "areaName": "Mpanshya Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. Daniel Sakala",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -11.8944,
+        "longitude": 31.5144
+      },
+      {
+        "latitude": -11.7592,
+        "longitude": 31.3792
+      },
+      {
+        "latitude": -11.871,
+        "longitude": 31.491
+      },
+      {
+        "latitude": -11.8014,
+        "longitude": 31.4214
+      },
+      {
+        "latitude": -11.8673,
+        "longitude": 31.4873
+      }
+    ],
+    "areaSizeHectares": 17238,
+    "population": 3546,
+    "neighboringAreas": [
+      "Kabompo",
+      "Mansa",
+      "Mpongwe",
+      "Luanshya",
+      "Monze"
+    ],
+    "keyLandmarks": [
+      "Sports Ground",
+      "Church"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2024-08-17T15:00:30.929760"
+  },
+  {
+    "id": "JM-0082",
+    "chiefdom": "Chief Muyombe",
+    "district": "Mpika",
+    "province": "Northern",
+    "areaName": "Chinsali Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Faith Siame",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -11.8675,
+        "longitude": 31.4875
+      },
+      {
+        "latitude": -11.803,
+        "longitude": 31.423
+      },
+      {
+        "latitude": -11.8668,
+        "longitude": 31.4868
+      },
+      {
+        "latitude": -11.803,
+        "longitude": 31.423
+      }
+    ],
+    "areaSizeHectares": 8814,
+    "population": 6695,
+    "neighboringAreas": [
+      "Kalingalinga",
+      "Lunsemfwa"
+    ],
+    "keyLandmarks": [
+      "Chief's Palace",
+      "Sports Ground",
+      "Mosque",
+      "River",
+      "School"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2024-10-05T15:00:30.929779"
+  },
+  {
+    "id": "JM-0083",
+    "chiefdom": "Chief Muyombe",
+    "district": "Mpika",
+    "province": "Northern",
+    "areaName": "Mongu Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Joyce Banda",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -11.8781,
+        "longitude": 31.4981
+      },
+      {
+        "latitude": -11.7868,
+        "longitude": 31.4068
+      },
+      {
+        "latitude": -11.8761,
+        "longitude": 31.4961
+      },
+      {
+        "latitude": -11.8011,
+        "longitude": 31.4211
+      },
+      {
+        "latitude": -11.8768,
+        "longitude": 31.4968
+      },
+      {
+        "latitude": -11.7786,
+        "longitude": 31.3986
+      },
+      {
+        "latitude": -11.8946,
+        "longitude": 31.5146
+      }
+    ],
+    "areaSizeHectares": 15078,
+    "population": 3804,
+    "neighboringAreas": [
+      "Luwingu",
+      "Chipapa",
+      "Mufumbwe",
+      "Mumbwa",
+      "Solwezi"
+    ],
+    "keyLandmarks": [
+      "River",
+      "Hospital",
+      "Chief's Palace",
+      "Community Center"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2025-03-16T15:00:30.929799"
+  },
+  {
+    "id": "JM-0084",
+    "chiefdom": "Chief Muyombe",
+    "district": "Mpika",
+    "province": "Northern",
+    "areaName": "Munyumba Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. Patrick Zulu",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -11.8608,
+        "longitude": 31.4808
+      },
+      {
+        "latitude": -11.7573,
+        "longitude": 31.3773
+      },
+      {
+        "latitude": -11.863,
+        "longitude": 31.483
+      },
+      {
+        "latitude": -11.7873,
+        "longitude": 31.4073
+      },
+      {
+        "latitude": -11.887,
+        "longitude": 31.507
+      },
+      {
+        "latitude": -11.7585,
+        "longitude": 31.3785
+      },
+      {
+        "latitude": -11.8919,
+        "longitude": 31.5119
+      }
+    ],
+    "areaSizeHectares": 6379,
+    "population": 8732,
+    "neighboringAreas": [
+      "Munyumba",
+      "Leopards Hill",
+      "Mufumbwe",
+      "Nchelenge",
+      "Mpanshya"
+    ],
+    "keyLandmarks": [
+      "Chief's Palace",
+      "School",
+      "Church"
+    ],
+    "accessRoads": "8 main roads",
+    "lastSurveyDate": "2025-01-17T15:00:30.929818"
+  },
+  {
+    "id": "JM-0085",
+    "chiefdom": "Chief Muyombe",
+    "district": "Mpika",
+    "province": "Northern",
+    "areaName": "Lukulu Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. George Nkonde",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -11.9012,
+        "longitude": 31.5212
+      },
+      {
+        "latitude": -11.8015,
+        "longitude": 31.4215
+      },
+      {
+        "latitude": -11.8644,
+        "longitude": 31.4844
+      },
+      {
+        "latitude": -11.773,
+        "longitude": 31.393
+      },
+      {
+        "latitude": -11.857,
+        "longitude": 31.477
+      },
+      {
+        "latitude": -11.7557,
+        "longitude": 31.3757
+      },
+      {
+        "latitude": -11.8875,
+        "longitude": 31.5075
+      }
+    ],
+    "areaSizeHectares": 5999,
+    "population": 10882,
+    "neighboringAreas": [
+      "Solwezi",
+      "Zambezi"
+    ],
+    "keyLandmarks": [
+      "Sacred Grove",
+      "Hospital",
+      "Mosque",
+      "Sports Ground",
+      "Chief's Palace"
+    ],
+    "accessRoads": "2 main roads",
+    "lastSurveyDate": "2025-01-17T15:00:30.929837"
+  },
+  {
+    "id": "JM-0086",
+    "chiefdom": "Chief Ishindi",
+    "district": "Solwezi",
+    "province": "North-Western",
+    "areaName": "Sinazongwe Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mrs. Mary Phiri",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -12.2268,
+        "longitude": 26.4468
+      },
+      {
+        "latitude": -12.1157,
+        "longitude": 26.3357
+      },
+      {
+        "latitude": -12.2193,
+        "longitude": 26.4393
+      },
+      {
+        "latitude": -12.1238,
+        "longitude": 26.3438
+      },
+      {
+        "latitude": -12.2065,
+        "longitude": 26.4265
+      },
+      {
+        "latitude": -12.1092,
+        "longitude": 26.3292
+      },
+      {
+        "latitude": -12.2261,
+        "longitude": 26.4461
+      }
+    ],
+    "areaSizeHectares": 11447,
+    "population": 5935,
+    "neighboringAreas": [
+      "Leopards Hill",
+      "Chilanga",
+      "Chililabombwe",
+      "Chalimbana"
+    ],
+    "keyLandmarks": [
+      "River",
+      "Sacred Grove",
+      "Mosque",
+      "School",
+      "Church"
+    ],
+    "accessRoads": "8 main roads",
+    "lastSurveyDate": "2025-02-16T15:00:30.929856"
+  },
+  {
+    "id": "JM-0087",
+    "chiefdom": "Chief Ishindi",
+    "district": "Solwezi",
+    "province": "North-Western",
+    "areaName": "Kawambwa Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. James Chanda",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -12.2007,
+        "longitude": 26.4207
+      },
+      {
+        "latitude": -12.109,
+        "longitude": 26.329
+      },
+      {
+        "latitude": -12.2178,
+        "longitude": 26.4378
+      },
+      {
+        "latitude": -12.0969,
+        "longitude": 26.3169
+      },
+      {
+        "latitude": -12.2335,
+        "longitude": 26.4535
+      },
+      {
+        "latitude": -12.1182,
+        "longitude": 26.3382
+      }
+    ],
+    "areaSizeHectares": 16473,
+    "population": 5242,
+    "neighboringAreas": [
+      "Ngwerere",
+      "Kalingalinga",
+      "Chingola",
+      "Livingstone",
+      "Mkushi"
+    ],
+    "keyLandmarks": [
+      "School",
+      "River",
+      "Hospital"
+    ],
+    "accessRoads": "4 main roads",
+    "lastSurveyDate": "2025-04-07T15:00:30.929874"
+  },
+  {
+    "id": "JM-0088",
+    "chiefdom": "Chief Ishindi",
+    "district": "Solwezi",
+    "province": "North-Western",
+    "areaName": "Chingola Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. Patrick Zulu",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -12.201,
+        "longitude": 26.421
+      },
+      {
+        "latitude": -12.1375,
+        "longitude": 26.3575
+      },
+      {
+        "latitude": -12.2017,
+        "longitude": 26.4217
+      },
+      {
+        "latitude": -12.1215,
+        "longitude": 26.3415
+      },
+      {
+        "latitude": -12.2108,
+        "longitude": 26.4308
+      },
+      {
+        "latitude": -12.117,
+        "longitude": 26.337
+      },
+      {
+        "latitude": -12.1957,
+        "longitude": 26.4157
+      }
+    ],
+    "areaSizeHectares": 17697,
+    "population": 10392,
+    "neighboringAreas": [
+      "Mongu",
+      "Ngwerere"
+    ],
+    "keyLandmarks": [
+      "Community Center",
+      "Sports Ground",
+      "Hospital",
+      "Market",
+      "River"
+    ],
+    "accessRoads": "5 main roads",
+    "lastSurveyDate": "2025-07-13T15:00:30.929893"
+  },
+  {
+    "id": "JM-0089",
+    "chiefdom": "Chief Ishindi",
+    "district": "Solwezi",
+    "province": "North-Western",
+    "areaName": "Mpika Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Dorothy Hamoonga",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -12.241,
+        "longitude": 26.461
+      },
+      {
+        "latitude": -12.1232,
+        "longitude": 26.3432
+      },
+      {
+        "latitude": -12.2306,
+        "longitude": 26.4506
+      },
+      {
+        "latitude": -12.1099,
+        "longitude": 26.3299
+      },
+      {
+        "latitude": -12.2306,
+        "longitude": 26.4506
+      }
+    ],
+    "areaSizeHectares": 17630,
+    "population": 4115,
+    "neighboringAreas": [
+      "Katoba",
+      "Chilanga",
+      "Zambezi",
+      "Chalimbana",
+      "Leopards Hill"
+    ],
+    "keyLandmarks": [
+      "Hospital",
+      "Church",
+      "River",
+      "Sacred Grove"
+    ],
+    "accessRoads": "2 main roads",
+    "lastSurveyDate": "2025-03-28T15:00:30.929910"
+  },
+  {
+    "id": "JM-0090",
+    "chiefdom": "Chief Ishindi",
+    "district": "Solwezi",
+    "province": "North-Western",
+    "areaName": "Mufumbwe Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. Daniel Sakala",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -12.2416,
+        "longitude": 26.4616
+      },
+      {
+        "latitude": -12.1052,
+        "longitude": 26.3252
+      },
+      {
+        "latitude": -12.202,
+        "longitude": 26.422
+      },
+      {
+        "latitude": -12.1099,
+        "longitude": 26.3299
+      },
+      {
+        "latitude": -12.2397,
+        "longitude": 26.4597
+      },
+      {
+        "latitude": -12.1329,
+        "longitude": 26.3529
+      },
+      {
+        "latitude": -12.1995,
+        "longitude": 26.4195
+      },
+      {
+        "latitude": -12.0968,
+        "longitude": 26.3168
+      }
+    ],
+    "areaSizeHectares": 3200,
+    "population": 5116,
+    "neighboringAreas": [
+      "Kabwe",
+      "Sinda",
+      "Kasama",
+      "Leopards Hill",
+      "Kalabo"
+    ],
+    "keyLandmarks": [
+      "Sacred Grove",
+      "Sports Ground",
+      "Chief's Palace"
+    ],
+    "accessRoads": "6 main roads",
+    "lastSurveyDate": "2024-10-31T15:00:30.929940"
+  },
+  {
+    "id": "JM-0091",
+    "chiefdom": "Chief Kasempa",
+    "district": "Kasempa",
+    "province": "North-Western",
+    "areaName": "Nakonde Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Dorothy Hamoonga",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -13.5076,
+        "longitude": 25.8876
+      },
+      {
+        "latitude": -13.4071,
+        "longitude": 25.7871
+      },
+      {
+        "latitude": -13.4863,
+        "longitude": 25.8663
+      },
+      {
+        "latitude": -13.3932,
+        "longitude": 25.7732
+      },
+      {
+        "latitude": -13.5257,
+        "longitude": 25.9057
+      }
+    ],
+    "areaSizeHectares": 6763,
+    "population": 11625,
+    "neighboringAreas": [
+      "Choma",
+      "Mazabuka"
+    ],
+    "keyLandmarks": [
+      "River",
+      "Community Center",
+      "Mosque",
+      "Sports Ground",
+      "Chief's Palace"
+    ],
+    "accessRoads": "7 main roads",
+    "lastSurveyDate": "2024-07-17T15:00:30.929958"
+  },
+  {
+    "id": "JM-0092",
+    "chiefdom": "Chief Kasempa",
+    "district": "Kasempa",
+    "province": "North-Western",
+    "areaName": "Kitwe Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. John Banda",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -13.5232,
+        "longitude": 25.9032
+      },
+      {
+        "latitude": -13.3986,
+        "longitude": 25.7786
+      },
+      {
+        "latitude": -13.5326,
+        "longitude": 25.9126
+      },
+      {
+        "latitude": -13.3968,
+        "longitude": 25.7768
+      },
+      {
+        "latitude": -13.5006,
+        "longitude": 25.8806
+      },
+      {
+        "latitude": -13.3884,
+        "longitude": 25.7684
+      }
+    ],
+    "areaSizeHectares": 9438,
+    "population": 4810,
+    "neighboringAreas": [
+      "Vubwi",
+      "Mpanshya",
+      "Kasempa",
+      "Shangombo",
+      "Sesheke"
+    ],
+    "keyLandmarks": [
+      "Sacred Grove",
+      "Hospital"
+    ],
+    "accessRoads": "6 main roads",
+    "lastSurveyDate": "2024-12-25T15:00:30.929976"
+  },
+  {
+    "id": "JM-0093",
+    "chiefdom": "Chief Kasempa",
+    "district": "Kasempa",
+    "province": "North-Western",
+    "areaName": "Mbabala Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. Vincent Hachipuka",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -13.5055,
+        "longitude": 25.8855
+      },
+      {
+        "latitude": -13.4192,
+        "longitude": 25.7992
+      },
+      {
+        "latitude": -13.5328,
+        "longitude": 25.9128
+      },
+      {
+        "latitude": -13.3959,
+        "longitude": 25.7759
+      },
+      {
+        "latitude": -13.5098,
+        "longitude": 25.8898
+      },
+      {
+        "latitude": -13.3963,
+        "longitude": 25.7763
+      }
+    ],
+    "areaSizeHectares": 13007,
+    "population": 7998,
+    "neighboringAreas": [
+      "Luangwa",
+      "Mansa",
+      "Chama",
+      "Mpika"
+    ],
+    "keyLandmarks": [
+      "River",
+      "Sports Ground",
+      "School",
+      "Sacred Grove"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2024-04-30T15:00:30.929993"
+  },
+  {
+    "id": "JM-0094",
+    "chiefdom": "Chief Kasempa",
+    "district": "Kasempa",
+    "province": "North-Western",
+    "areaName": "Kalabo Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. Robert Ngoma",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -13.4985,
+        "longitude": 25.8785
+      },
+      {
+        "latitude": -13.4121,
+        "longitude": 25.7921
+      },
+      {
+        "latitude": -13.5286,
+        "longitude": 25.9086
+      },
+      {
+        "latitude": -13.3908,
+        "longitude": 25.7708
+      },
+      {
+        "latitude": -13.4994,
+        "longitude": 25.8794
+      },
+      {
+        "latitude": -13.3879,
+        "longitude": 25.7679
+      }
+    ],
+    "areaSizeHectares": 4063,
+    "population": 9338,
+    "neighboringAreas": [
+      "Solwezi",
+      "Mpanshya",
+      "Mazabuka"
+    ],
+    "keyLandmarks": [
+      "Mosque",
+      "Community Center",
+      "Sacred Grove",
+      "Sports Ground",
+      "Chief's Palace"
+    ],
+    "accessRoads": "4 main roads",
+    "lastSurveyDate": "2025-02-25T15:00:30.930012"
+  },
+  {
+    "id": "JM-0095",
+    "chiefdom": "Chief Kasempa",
+    "district": "Kasempa",
+    "province": "North-Western",
+    "areaName": "Makeni Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. Charles Bwalya",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -13.508,
+        "longitude": 25.888
+      },
+      {
+        "latitude": -13.3877,
+        "longitude": 25.7677
+      },
+      {
+        "latitude": -13.5058,
+        "longitude": 25.8858
+      },
+      {
+        "latitude": -13.4159,
+        "longitude": 25.7959
+      },
+      {
+        "latitude": -13.5338,
+        "longitude": 25.9138
+      },
+      {
+        "latitude": -13.4021,
+        "longitude": 25.7821
+      },
+      {
+        "latitude": -13.5183,
+        "longitude": 25.8983
+      },
+      {
+        "latitude": -13.391,
+        "longitude": 25.771
+      }
+    ],
+    "areaSizeHectares": 12981,
+    "population": 11459,
+    "neighboringAreas": [
+      "Mansa",
+      "Mazabuka"
+    ],
+    "keyLandmarks": [
+      "Church",
+      "Sports Ground"
+    ],
+    "accessRoads": "5 main roads",
+    "lastSurveyDate": "2024-12-31T15:00:30.930031"
+  },
+  {
+    "id": "JM-0096",
+    "chiefdom": "Chief Sailunga",
+    "district": "Mwinilunga",
+    "province": "North-Western",
+    "areaName": "Luwingu Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. Lawrence Kapasa",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -11.8147,
+        "longitude": 24.5047
+      },
+      {
+        "latitude": -11.6774,
+        "longitude": 24.3674
+      },
+      {
+        "latitude": -11.7783,
+        "longitude": 24.4683
+      },
+      {
+        "latitude": -11.7065,
+        "longitude": 24.3965
+      }
+    ],
+    "areaSizeHectares": 6606,
+    "population": 1585,
+    "neighboringAreas": [
+      "Katoba",
+      "Chama"
+    ],
+    "keyLandmarks": [
+      "Sports Ground",
+      "River",
+      "Hospital"
+    ],
+    "accessRoads": "6 main roads",
+    "lastSurveyDate": "2024-05-01T15:00:30.930050"
+  },
+  {
+    "id": "JM-0097",
+    "chiefdom": "Chief Sailunga",
+    "district": "Mwinilunga",
+    "province": "North-Western",
+    "areaName": "Mwinilunga Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. Peter Sikalonga",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -11.7727,
+        "longitude": 24.4627
+      },
+      {
+        "latitude": -11.6936,
+        "longitude": 24.3836
+      },
+      {
+        "latitude": -11.8079,
+        "longitude": 24.4979
+      },
+      {
+        "latitude": -11.6697,
+        "longitude": 24.3597
+      },
+      {
+        "latitude": -11.7668,
+        "longitude": 24.4568
+      },
+      {
+        "latitude": -11.6859,
+        "longitude": 24.3759
+      },
+      {
+        "latitude": -11.8033,
+        "longitude": 24.4933
+      },
+      {
+        "latitude": -11.6932,
+        "longitude": 24.3832
+      }
+    ],
+    "areaSizeHectares": 13764,
+    "population": 1234,
+    "neighboringAreas": [
+      "Shangombo",
+      "Lukulu",
+      "Mbabala",
+      "Ngwerere"
+    ],
+    "keyLandmarks": [
+      "Market",
+      "Community Center"
+    ],
+    "accessRoads": "2 main roads",
+    "lastSurveyDate": "2024-09-10T15:00:30.930073"
+  },
+  {
+    "id": "JM-0098",
+    "chiefdom": "Chief Sailunga",
+    "district": "Mwinilunga",
+    "province": "North-Western",
+    "areaName": "Lilayi Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mrs. Sarah Mumba",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -11.7805,
+        "longitude": 24.4705
+      },
+      {
+        "latitude": -11.6831,
+        "longitude": 24.3731
+      },
+      {
+        "latitude": -11.809,
+        "longitude": 24.499
+      },
+      {
+        "latitude": -11.6687,
+        "longitude": 24.3587
+      },
+      {
+        "latitude": -11.7879,
+        "longitude": 24.4779
+      },
+      {
+        "latitude": -11.675,
+        "longitude": 24.365
+      },
+      {
+        "latitude": -11.7905,
+        "longitude": 24.4805
+      }
+    ],
+    "areaSizeHectares": 14153,
+    "population": 3167,
+    "neighboringAreas": [
+      "Lukulu",
+      "Kasempa",
+      "Mongu",
+      "Samfya"
+    ],
+    "keyLandmarks": [
+      "River",
+      "Market",
+      "Mosque",
+      "Church",
+      "School"
+    ],
+    "accessRoads": "4 main roads",
+    "lastSurveyDate": "2025-06-11T15:00:30.930095"
+  },
+  {
+    "id": "JM-0099",
+    "chiefdom": "Chief Sailunga",
+    "district": "Mwinilunga",
+    "province": "North-Western",
+    "areaName": "Makeni Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. James Chanda",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -11.7896,
+        "longitude": 24.4796
+      },
+      {
+        "latitude": -11.6884,
+        "longitude": 24.3784
+      },
+      {
+        "latitude": -11.7706,
+        "longitude": 24.4606
+      },
+      {
+        "latitude": -11.708,
+        "longitude": 24.398
+      },
+      {
+        "latitude": -11.7793,
+        "longitude": 24.4693
+      },
+      {
+        "latitude": -11.6992,
+        "longitude": 24.3892
+      }
+    ],
+    "areaSizeHectares": 8630,
+    "population": 3630,
+    "neighboringAreas": [
+      "Lilayi",
+      "Shimabala",
+      "Mufumbwe",
+      "Chisamba",
+      "Lundazi"
+    ],
+    "keyLandmarks": [
+      "School",
+      "Hospital",
+      "Church",
+      "Community Center",
+      "Mosque"
+    ],
+    "accessRoads": "7 main roads",
+    "lastSurveyDate": "2024-08-03T15:00:30.930117"
+  },
+  {
+    "id": "JM-0100",
+    "chiefdom": "Chief Sailunga",
+    "district": "Mwinilunga",
+    "province": "North-Western",
+    "areaName": "Gwembe Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. Richard Zimba",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -11.8058,
+        "longitude": 24.4958
+      },
+      {
+        "latitude": -11.6784,
+        "longitude": 24.3684
+      },
+      {
+        "latitude": -11.8101,
+        "longitude": 24.5001
+      },
+      {
+        "latitude": -11.6669,
+        "longitude": 24.3569
+      }
+    ],
+    "areaSizeHectares": 17817,
+    "population": 4061,
+    "neighboringAreas": [
+      "Siavonga",
+      "Chama",
+      "Nchelenge",
+      "Lunsemfwa",
+      "Kapiri"
+    ],
+    "keyLandmarks": [
+      "School",
+      "Hospital",
+      "Chief's Palace",
+      "Mosque"
+    ],
+    "accessRoads": "8 main roads",
+    "lastSurveyDate": "2025-05-10T15:00:30.930135"
+  },
+  {
+    "id": "JM-0101",
+    "chiefdom": "Chief Mukuni",
+    "district": "Livingstone",
+    "province": "Southern",
+    "areaName": "Lundazi Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. David Mwale",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -17.9151,
+        "longitude": 25.9151
+      },
+      {
+        "latitude": -17.8314,
+        "longitude": 25.8314
+      },
+      {
+        "latitude": -17.8862,
+        "longitude": 25.8862
+      },
+      {
+        "latitude": -17.8105,
+        "longitude": 25.8105
+      },
+      {
+        "latitude": -17.8927,
+        "longitude": 25.8927
+      },
+      {
+        "latitude": -17.8282,
+        "longitude": 25.8282
+      },
+      {
+        "latitude": -17.9304,
+        "longitude": 25.9304
+      }
+    ],
+    "areaSizeHectares": 12414,
+    "population": 3022,
+    "neighboringAreas": [
+      "Chisamba",
+      "Chipapa",
+      "Petauke",
+      "Kanakantapa",
+      "Katoba"
+    ],
+    "keyLandmarks": [
+      "Mosque",
+      "Chief's Palace",
+      "Sacred Grove"
+    ],
+    "accessRoads": "5 main roads",
+    "lastSurveyDate": "2025-03-31T15:00:30.930157"
+  },
+  {
+    "id": "JM-0102",
+    "chiefdom": "Chief Mukuni",
+    "district": "Livingstone",
+    "province": "Southern",
+    "areaName": "Gwembe Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Elizabeth Mutale",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -17.9344,
+        "longitude": 25.9344
+      },
+      {
+        "latitude": -17.8218,
+        "longitude": 25.8218
+      },
+      {
+        "latitude": -17.92,
+        "longitude": 25.92
+      },
+      {
+        "latitude": -17.8263,
+        "longitude": 25.8263
+      },
+      {
+        "latitude": -17.8964,
+        "longitude": 25.8964
+      },
+      {
+        "latitude": -17.7991,
+        "longitude": 25.7991
+      },
+      {
+        "latitude": -17.8959,
+        "longitude": 25.8959
+      }
+    ],
+    "areaSizeHectares": 3643,
+    "population": 6332,
+    "neighboringAreas": [
+      "Sinda",
+      "Mansa"
+    ],
+    "keyLandmarks": [
+      "Church",
+      "Sacred Grove",
+      "River",
+      "Mosque"
+    ],
+    "accessRoads": "5 main roads",
+    "lastSurveyDate": "2025-03-16T15:00:30.930176"
+  },
+  {
+    "id": "JM-0103",
+    "chiefdom": "Chief Mukuni",
+    "district": "Livingstone",
+    "province": "Southern",
+    "areaName": "Chongwe Central Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. Joseph Lungu",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -17.8947,
+        "longitude": 25.8947
+      },
+      {
+        "latitude": -17.8224,
+        "longitude": 25.8224
+      },
+      {
+        "latitude": -17.9047,
+        "longitude": 25.9047
+      },
+      {
+        "latitude": -17.8098,
+        "longitude": 25.8098
+      }
+    ],
+    "areaSizeHectares": 9808,
+    "population": 9069,
+    "neighboringAreas": [
+      "Kapiri",
+      "Luwingu",
+      "Ngwerere"
+    ],
+    "keyLandmarks": [
+      "Hospital",
+      "Church"
+    ],
+    "accessRoads": "2 main roads",
+    "lastSurveyDate": "2025-02-19T15:00:30.930192"
+  },
+  {
+    "id": "JM-0104",
+    "chiefdom": "Chief Mukuni",
+    "district": "Livingstone",
+    "province": "Southern",
+    "areaName": "Luanshya Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. Francis Chipanga",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -17.8858,
+        "longitude": 25.8858
+      },
+      {
+        "latitude": -17.7863,
+        "longitude": 25.7863
+      },
+      {
+        "latitude": -17.8914,
+        "longitude": 25.8914
+      },
+      {
+        "latitude": -17.8253,
+        "longitude": 25.8253
+      },
+      {
+        "latitude": -17.9013,
+        "longitude": 25.9013
+      },
+      {
+        "latitude": -17.8027,
+        "longitude": 25.8027
+      }
+    ],
+    "areaSizeHectares": 3231,
+    "population": 7319,
+    "neighboringAreas": [
+      "Chililabombwe",
+      "Sikanze",
+      "Katoba",
+      "Samfya",
+      "Sinda"
+    ],
+    "keyLandmarks": [
+      "Chief's Palace",
+      "River",
+      "Community Center",
+      "Market",
+      "Sports Ground"
+    ],
+    "accessRoads": "5 main roads",
+    "lastSurveyDate": "2025-01-24T15:00:30.930210"
+  },
+  {
+    "id": "JM-0105",
+    "chiefdom": "Chief Mukuni",
+    "district": "Livingstone",
+    "province": "Southern",
+    "areaName": "Mwembezhi Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. Richard Zimba",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -17.9038,
+        "longitude": 25.9038
+      },
+      {
+        "latitude": -17.8043,
+        "longitude": 25.8043
+      },
+      {
+        "latitude": -17.9298,
+        "longitude": 25.9298
+      },
+      {
+        "latitude": -17.8309,
+        "longitude": 25.8309
+      }
+    ],
+    "areaSizeHectares": 7055,
+    "population": 11726,
+    "neighboringAreas": [
+      "Vubwi",
+      "Lilayi",
+      "Lukulu",
+      "Mporokoso",
+      "Palabana"
+    ],
+    "keyLandmarks": [
+      "Hospital",
+      "Community Center",
+      "Sacred Grove",
+      "Market"
+    ],
+    "accessRoads": "5 main roads",
+    "lastSurveyDate": "2024-06-09T15:00:30.930226"
+  },
+  {
+    "id": "JM-0106",
+    "chiefdom": "Chief Monze",
+    "district": "Monze",
+    "province": "Southern",
+    "areaName": "Sinazongwe Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mrs. Beatrice Nkhoma",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -16.3102,
+        "longitude": 27.5102
+      },
+      {
+        "latitude": -16.2377,
+        "longitude": 27.4377
+      },
+      {
+        "latitude": -16.3237,
+        "longitude": 27.5237
+      },
+      {
+        "latitude": -16.2435,
+        "longitude": 27.4435
+      },
+      {
+        "latitude": -16.3543,
+        "longitude": 27.5543
+      },
+      {
+        "latitude": -16.2091,
+        "longitude": 27.4091
+      },
+      {
+        "latitude": -16.3401,
+        "longitude": 27.5401
+      },
+      {
+        "latitude": -16.2336,
+        "longitude": 27.4336
+      }
+    ],
+    "areaSizeHectares": 12110,
+    "population": 2073,
+    "neighboringAreas": [
+      "Chilanga",
+      "Zambezi"
+    ],
+    "keyLandmarks": [
+      "Mosque",
+      "School",
+      "Hospital",
+      "Sacred Grove",
+      "River"
+    ],
+    "accessRoads": "8 main roads",
+    "lastSurveyDate": "2024-10-14T15:00:30.930247"
+  },
+  {
+    "id": "JM-0107",
+    "chiefdom": "Chief Monze",
+    "district": "Monze",
+    "province": "Southern",
+    "areaName": "Kitwe Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mrs. Helen Kalaba",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -16.3184,
+        "longitude": 27.5184
+      },
+      {
+        "latitude": -16.2378,
+        "longitude": 27.4378
+      },
+      {
+        "latitude": -16.3111,
+        "longitude": 27.5111
+      },
+      {
+        "latitude": -16.2498,
+        "longitude": 27.4498
+      },
+      {
+        "latitude": -16.3218,
+        "longitude": 27.5218
+      },
+      {
+        "latitude": -16.2139,
+        "longitude": 27.4139
+      }
+    ],
+    "areaSizeHectares": 19255,
+    "population": 11782,
+    "neighboringAreas": [
+      "Chipapa",
+      "Kabompo"
+    ],
+    "keyLandmarks": [
+      "Sacred Grove",
+      "Hospital",
+      "Sports Ground",
+      "Market",
+      "Mosque"
+    ],
+    "accessRoads": "6 main roads",
+    "lastSurveyDate": "2024-08-24T15:00:30.930265"
+  },
+  {
+    "id": "JM-0108",
+    "chiefdom": "Chief Monze",
+    "district": "Monze",
+    "province": "Southern",
+    "areaName": "Chainda Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. William Chisenga",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -16.3163,
+        "longitude": 27.5163
+      },
+      {
+        "latitude": -16.2063,
+        "longitude": 27.4063
+      },
+      {
+        "latitude": -16.3512,
+        "longitude": 27.5512
+      },
+      {
+        "latitude": -16.2151,
+        "longitude": 27.4151
+      },
+      {
+        "latitude": -16.3425,
+        "longitude": 27.5425
+      },
+      {
+        "latitude": -16.2335,
+        "longitude": 27.4335
+      },
+      {
+        "latitude": -16.3323,
+        "longitude": 27.5323
+      }
+    ],
+    "areaSizeHectares": 10285,
+    "population": 10887,
+    "neighboringAreas": [
+      "Mpongwe",
+      "Sinazongwe",
+      "Kabompo"
+    ],
+    "keyLandmarks": [
+      "Chief's Palace",
+      "Hospital",
+      "River"
+    ],
+    "accessRoads": "4 main roads",
+    "lastSurveyDate": "2025-06-25T15:00:30.930284"
+  },
+  {
+    "id": "JM-0109",
+    "chiefdom": "Chief Monze",
+    "district": "Monze",
+    "province": "Southern",
+    "areaName": "Chama Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mrs. Linda Chiluba",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -16.3529,
+        "longitude": 27.5529
+      },
+      {
+        "latitude": -16.228,
+        "longitude": 27.428
+      },
+      {
+        "latitude": -16.346,
+        "longitude": 27.546
+      },
+      {
+        "latitude": -16.2499,
+        "longitude": 27.4499
+      }
+    ],
+    "areaSizeHectares": 4463,
+    "population": 1892,
+    "neighboringAreas": [
+      "Lilayi",
+      "Chipata",
+      "Chingola",
+      "Samfya"
+    ],
+    "keyLandmarks": [
+      "Hospital",
+      "River",
+      "Chief's Palace",
+      "Mosque",
+      "School"
+    ],
+    "accessRoads": "2 main roads",
+    "lastSurveyDate": "2024-07-29T15:00:30.930303"
+  },
+  {
+    "id": "JM-0110",
+    "chiefdom": "Chief Monze",
+    "district": "Monze",
+    "province": "Southern",
+    "areaName": "Chalala Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Florence Mwanza",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -16.3412,
+        "longitude": 27.5412
+      },
+      {
+        "latitude": -16.2086,
+        "longitude": 27.4086
+      },
+      {
+        "latitude": -16.3498,
+        "longitude": 27.5498
+      },
+      {
+        "latitude": -16.2222,
+        "longitude": 27.4222
+      },
+      {
+        "latitude": -16.3476,
+        "longitude": 27.5476
+      }
+    ],
+    "areaSizeHectares": 16166,
+    "population": 2439,
+    "neighboringAreas": [
+      "Chinsali",
+      "Palabana"
+    ],
+    "keyLandmarks": [
+      "Chief's Palace",
+      "Sacred Grove",
+      "School",
+      "Church",
+      "Market"
+    ],
+    "accessRoads": "8 main roads",
+    "lastSurveyDate": "2025-04-23T15:00:30.930322"
+  },
+  {
+    "id": "JM-0111",
+    "chiefdom": "Chief Cooma",
+    "district": "Choma",
+    "province": "Southern",
+    "areaName": "Ndola Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. Daniel Sakala",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -16.8581,
+        "longitude": 27.0381
+      },
+      {
+        "latitude": -16.7776,
+        "longitude": 26.9576
+      },
+      {
+        "latitude": -16.8731,
+        "longitude": 27.0531
+      },
+      {
+        "latitude": -16.7526,
+        "longitude": 26.9326
+      },
+      {
+        "latitude": -16.8832,
+        "longitude": 27.0632
+      },
+      {
+        "latitude": -16.7411,
+        "longitude": 26.9211
+      },
+      {
+        "latitude": -16.8612,
+        "longitude": 27.0412
+      }
+    ],
+    "areaSizeHectares": 15296,
+    "population": 8140,
+    "neighboringAreas": [
+      "Sinazongwe",
+      "Chalimbana",
+      "Katoba",
+      "Isoka",
+      "Livingstone"
+    ],
+    "keyLandmarks": [
+      "School",
+      "Mosque",
+      "Sacred Grove"
+    ],
+    "accessRoads": "2 main roads",
+    "lastSurveyDate": "2024-03-05T15:00:30.930343"
+  },
+  {
+    "id": "JM-0112",
+    "chiefdom": "Chief Cooma",
+    "district": "Choma",
+    "province": "Southern",
+    "areaName": "Chadiza Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. Anthony Mulenga",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -16.8422,
+        "longitude": 27.0222
+      },
+      {
+        "latitude": -16.7587,
+        "longitude": 26.9387
+      },
+      {
+        "latitude": -16.8372,
+        "longitude": 27.0172
+      },
+      {
+        "latitude": -16.7616,
+        "longitude": 26.9416
+      },
+      {
+        "latitude": -16.8381,
+        "longitude": 27.0181
+      },
+      {
+        "latitude": -16.7432,
+        "longitude": 26.9232
+      },
+      {
+        "latitude": -16.8464,
+        "longitude": 27.0264
+      },
+      {
+        "latitude": -16.7555,
+        "longitude": 26.9355
+      }
+    ],
+    "areaSizeHectares": 18993,
+    "population": 2122,
+    "neighboringAreas": [
+      "Mpika",
+      "Sinda",
+      "Vubwi",
+      "Chibombo"
+    ],
+    "keyLandmarks": [
+      "Sacred Grove",
+      "Sports Ground",
+      "River",
+      "Hospital",
+      "School"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2025-03-11T15:00:30.930363"
+  },
+  {
+    "id": "JM-0113",
+    "chiefdom": "Chief Cooma",
+    "district": "Choma",
+    "province": "Southern",
+    "areaName": "Mazabuka Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. Francis Chipanga",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -16.8642,
+        "longitude": 27.0442
+      },
+      {
+        "latitude": -16.7828,
+        "longitude": 26.9628
+      },
+      {
+        "latitude": -16.8834,
+        "longitude": 27.0634
+      },
+      {
+        "latitude": -16.7625,
+        "longitude": 26.9425
+      },
+      {
+        "latitude": -16.8797,
+        "longitude": 27.0597
+      },
+      {
+        "latitude": -16.7809,
+        "longitude": 26.9609
+      },
+      {
+        "latitude": -16.8749,
+        "longitude": 27.0549
+      }
+    ],
+    "areaSizeHectares": 14467,
+    "population": 7373,
+    "neighboringAreas": [
+      "Kabwe",
+      "Katoba"
+    ],
+    "keyLandmarks": [
+      "Sacred Grove",
+      "School",
+      "Church"
+    ],
+    "accessRoads": "4 main roads",
+    "lastSurveyDate": "2024-08-23T15:00:30.930381"
+  },
+  {
+    "id": "JM-0114",
+    "chiefdom": "Chief Cooma",
+    "district": "Choma",
+    "province": "Southern",
+    "areaName": "Kalingalinga Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Catherine Kasonde",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -16.8686,
+        "longitude": 27.0486
+      },
+      {
+        "latitude": -16.7586,
+        "longitude": 26.9386
+      },
+      {
+        "latitude": -16.8362,
+        "longitude": 27.0162
+      },
+      {
+        "latitude": -16.781,
+        "longitude": 26.961
+      }
+    ],
+    "areaSizeHectares": 3693,
+    "population": 6200,
+    "neighboringAreas": [
+      "Mbala",
+      "Kafue Riverside"
+    ],
+    "keyLandmarks": [
+      "Chief's Palace",
+      "Mosque",
+      "Sacred Grove"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2024-12-06T15:00:30.930397"
+  },
+  {
+    "id": "JM-0115",
+    "chiefdom": "Chief Cooma",
+    "district": "Choma",
+    "province": "Southern",
+    "areaName": "Mumbwa Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. Joseph Lungu",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -16.8427,
+        "longitude": 27.0227
+      },
+      {
+        "latitude": -16.7552,
+        "longitude": 26.9352
+      },
+      {
+        "latitude": -16.8383,
+        "longitude": 27.0183
+      },
+      {
+        "latitude": -16.7818,
+        "longitude": 26.9618
+      },
+      {
+        "latitude": -16.8802,
+        "longitude": 27.0602
+      },
+      {
+        "latitude": -16.745,
+        "longitude": 26.925
+      }
+    ],
+    "areaSizeHectares": 13041,
+    "population": 1766,
+    "neighboringAreas": [
+      "Katoba",
+      "Chinsali"
+    ],
+    "keyLandmarks": [
+      "School",
+      "Market",
+      "River",
+      "Sacred Grove",
+      "Church"
+    ],
+    "accessRoads": "6 main roads",
+    "lastSurveyDate": "2024-05-17T15:00:30.930424"
+  },
+  {
+    "id": "JM-0116",
+    "chiefdom": "Chief Inyambo Yeta",
+    "district": "Mongu",
+    "province": "Western",
+    "areaName": "Shimabala Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. Andrew Sichone",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -15.3158,
+        "longitude": 23.2058
+      },
+      {
+        "latitude": -15.1887,
+        "longitude": 23.0787
+      },
+      {
+        "latitude": -15.2871,
+        "longitude": 23.1771
+      },
+      {
+        "latitude": -15.1898,
+        "longitude": 23.0798
+      },
+      {
+        "latitude": -15.3164,
+        "longitude": 23.2064
+      },
+      {
+        "latitude": -15.2029,
+        "longitude": 23.0929
+      },
+      {
+        "latitude": -15.3024,
+        "longitude": 23.1924
+      }
+    ],
+    "areaSizeHectares": 14241,
+    "population": 8529,
+    "neighboringAreas": [
+      "Kaputa",
+      "Nakatindi"
+    ],
+    "keyLandmarks": [
+      "Community Center",
+      "Market",
+      "Church"
+    ],
+    "accessRoads": "7 main roads",
+    "lastSurveyDate": "2025-06-11T15:00:30.930445"
+  },
+  {
+    "id": "JM-0117",
+    "chiefdom": "Chief Inyambo Yeta",
+    "district": "Mongu",
+    "province": "Western",
+    "areaName": "Isoka Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. Patrick Zulu",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -15.3339,
+        "longitude": 23.2239
+      },
+      {
+        "latitude": -15.1972,
+        "longitude": 23.0872
+      },
+      {
+        "latitude": -15.309,
+        "longitude": 23.199
+      },
+      {
+        "latitude": -15.2288,
+        "longitude": 23.1188
+      },
+      {
+        "latitude": -15.3142,
+        "longitude": 23.2042
+      },
+      {
+        "latitude": -15.1864,
+        "longitude": 23.0764
+      },
+      {
+        "latitude": -15.2915,
+        "longitude": 23.1815
+      }
+    ],
+    "areaSizeHectares": 8272,
+    "population": 3281,
+    "neighboringAreas": [
+      "Luwingu",
+      "Chalala"
+    ],
+    "keyLandmarks": [
+      "Sports Ground",
+      "River",
+      "Sacred Grove",
+      "Market"
+    ],
+    "accessRoads": "2 main roads",
+    "lastSurveyDate": "2025-07-20T15:00:30.930464"
+  },
+  {
+    "id": "JM-0118",
+    "chiefdom": "Chief Inyambo Yeta",
+    "district": "Mongu",
+    "province": "Western",
+    "areaName": "Ngwerere Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. Lawrence Kapasa",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -15.3148,
+        "longitude": 23.2048
+      },
+      {
+        "latitude": -15.2208,
+        "longitude": 23.1108
+      },
+      {
+        "latitude": -15.2874,
+        "longitude": 23.1774
+      },
+      {
+        "latitude": -15.2245,
+        "longitude": 23.1145
+      },
+      {
+        "latitude": -15.3301,
+        "longitude": 23.2201
+      },
+      {
+        "latitude": -15.2081,
+        "longitude": 23.0981
+      }
+    ],
+    "areaSizeHectares": 17903,
+    "population": 2214,
+    "neighboringAreas": [
+      "Makeni",
+      "Nchelenge",
+      "Mufumbwe"
+    ],
+    "keyLandmarks": [
+      "Market",
+      "Hospital",
+      "School",
+      "Church",
+      "Chief's Palace"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2024-12-17T15:00:30.930482"
+  },
+  {
+    "id": "JM-0119",
+    "chiefdom": "Chief Inyambo Yeta",
+    "district": "Mongu",
+    "province": "Western",
+    "areaName": "Mwinilunga Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. William Chisenga",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -15.3028,
+        "longitude": 23.1928
+      },
+      {
+        "latitude": -15.2159,
+        "longitude": 23.1059
+      },
+      {
+        "latitude": -15.2909,
+        "longitude": 23.1809
+      },
+      {
+        "latitude": -15.1989,
+        "longitude": 23.0889
+      },
+      {
+        "latitude": -15.3206,
+        "longitude": 23.2106
+      },
+      {
+        "latitude": -15.2172,
+        "longitude": 23.1072
+      },
+      {
+        "latitude": -15.3221,
+        "longitude": 23.2121
+      }
+    ],
+    "areaSizeHectares": 19789,
+    "population": 3207,
+    "neighboringAreas": [
+      "Mpanshya",
+      "Mambwe",
+      "Mpika",
+      "Petauke"
+    ],
+    "keyLandmarks": [
+      "Church",
+      "Sports Ground",
+      "Community Center",
+      "River",
+      "Market"
+    ],
+    "accessRoads": "2 main roads",
+    "lastSurveyDate": "2025-05-16T15:00:30.930501"
+  },
+  {
+    "id": "JM-0120",
+    "chiefdom": "Chief Inyambo Yeta",
+    "district": "Mongu",
+    "province": "Western",
+    "areaName": "Chama Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mr. Robert Ngoma",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -15.3258,
+        "longitude": 23.2158
+      },
+      {
+        "latitude": -15.1989,
+        "longitude": 23.0889
+      },
+      {
+        "latitude": -15.3284,
+        "longitude": 23.2184
+      },
+      {
+        "latitude": -15.2248,
+        "longitude": 23.1148
+      },
+      {
+        "latitude": -15.3049,
+        "longitude": 23.1949
+      },
+      {
+        "latitude": -15.1858,
+        "longitude": 23.0758
+      }
+    ],
+    "areaSizeHectares": 4607,
+    "population": 3183,
+    "neighboringAreas": [
+      "Katete",
+      "Mpongwe",
+      "Mutumbi",
+      "Luangwa"
+    ],
+    "keyLandmarks": [
+      "Mosque",
+      "Sacred Grove",
+      "Community Center",
+      "Hospital",
+      "School"
+    ],
+    "accessRoads": "4 main roads",
+    "lastSurveyDate": "2024-04-05T15:00:30.930521"
+  },
+  {
+    "id": "JM-0121",
+    "chiefdom": "Chief Sikufele",
+    "district": "Senanga",
+    "province": "Western",
+    "areaName": "Mpanshya Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Catherine Kasonde",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -16.1575,
+        "longitude": 23.3075
+      },
+      {
+        "latitude": -16.0691,
+        "longitude": 23.2191
+      },
+      {
+        "latitude": -16.1685,
+        "longitude": 23.3185
+      },
+      {
+        "latitude": -16.0907,
+        "longitude": 23.2407
+      },
+      {
+        "latitude": -16.1793,
+        "longitude": 23.3293
+      },
+      {
+        "latitude": -16.0714,
+        "longitude": 23.2214
+      },
+      {
+        "latitude": -16.1879,
+        "longitude": 23.3379
+      }
+    ],
+    "areaSizeHectares": 3978,
+    "population": 8921,
+    "neighboringAreas": [
+      "Mkushi",
+      "Kapiri",
+      "Chama",
+      "Mansa"
+    ],
+    "keyLandmarks": [
+      "River",
+      "Hospital",
+      "Chief's Palace",
+      "Church"
+    ],
+    "accessRoads": "6 main roads",
+    "lastSurveyDate": "2025-02-19T15:00:30.930541"
+  },
+  {
+    "id": "JM-0122",
+    "chiefdom": "Chief Sikufele",
+    "district": "Senanga",
+    "province": "Western",
+    "areaName": "Senanga Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Mary Phiri",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -16.1704,
+        "longitude": 23.3204
+      },
+      {
+        "latitude": -16.0612,
+        "longitude": 23.2112
+      },
+      {
+        "latitude": -16.1606,
+        "longitude": 23.3106
+      },
+      {
+        "latitude": -16.0641,
+        "longitude": 23.2141
+      },
+      {
+        "latitude": -16.1798,
+        "longitude": 23.3298
+      },
+      {
+        "latitude": -16.0467,
+        "longitude": 23.1967
+      },
+      {
+        "latitude": -16.19,
+        "longitude": 23.34
+      }
+    ],
+    "areaSizeHectares": 14764,
+    "population": 1269,
+    "neighboringAreas": [
+      "Palabana",
+      "Kaunga",
+      "Mpika",
+      "Kanakantapa"
+    ],
+    "keyLandmarks": [
+      "Church",
+      "Chief's Palace",
+      "School",
+      "Community Center",
+      "Sacred Grove"
+    ],
+    "accessRoads": "7 main roads",
+    "lastSurveyDate": "2025-02-25T15:00:30.930561"
+  },
+  {
+    "id": "JM-0123",
+    "chiefdom": "Chief Sikufele",
+    "district": "Senanga",
+    "province": "Western",
+    "areaName": "Vubwi Administrative Area",
+    "areaType": "Zone",
+    "headmanName": "Mrs. Patricia Chilufya",
+    "indunaName": "Induna Nkandu",
+    "boundaryCoordinates": [
+      {
+        "latitude": -16.1852,
+        "longitude": 23.3352
+      },
+      {
+        "latitude": -16.0699,
+        "longitude": 23.2199
+      },
+      {
+        "latitude": -16.1882,
+        "longitude": 23.3382
+      },
+      {
+        "latitude": -16.0815,
+        "longitude": 23.2315
+      },
+      {
+        "latitude": -16.1889,
+        "longitude": 23.3389
+      }
+    ],
+    "areaSizeHectares": 3161,
+    "population": 3304,
+    "neighboringAreas": [
+      "Solwezi",
+      "Kasempa",
+      "Mpanshya"
+    ],
+    "keyLandmarks": [
+      "Chief's Palace",
+      "Mosque",
+      "Market",
+      "River",
+      "School"
+    ],
+    "accessRoads": "4 main roads",
+    "lastSurveyDate": "2024-11-30T15:00:30.930578"
+  },
+  {
+    "id": "JM-0124",
+    "chiefdom": "Chief Sikufele",
+    "district": "Senanga",
+    "province": "Western",
+    "areaName": "Chingola Administrative Area",
+    "areaType": "Village",
+    "headmanName": "Mr. Patrick Zulu",
+    "indunaName": "Induna Kazembe",
+    "boundaryCoordinates": [
+      {
+        "latitude": -16.1624,
+        "longitude": 23.3124
+      },
+      {
+        "latitude": -16.0657,
+        "longitude": 23.2157
+      },
+      {
+        "latitude": -16.1677,
+        "longitude": 23.3177
+      },
+      {
+        "latitude": -16.0679,
+        "longitude": 23.2179
+      },
+      {
+        "latitude": -16.1469,
+        "longitude": 23.2969
+      },
+      {
+        "latitude": -16.0747,
+        "longitude": 23.2247
+      },
+      {
+        "latitude": -16.1833,
+        "longitude": 23.3333
+      }
+    ],
+    "areaSizeHectares": 7509,
+    "population": 3170,
+    "neighboringAreas": [
+      "Mumbwa",
+      "Mporokoso",
+      "Luwingu"
+    ],
+    "keyLandmarks": [
+      "School",
+      "Sacred Grove",
+      "River",
+      "Mosque",
+      "Chief's Palace"
+    ],
+    "accessRoads": "3 main roads",
+    "lastSurveyDate": "2025-05-17T15:00:30.930598"
+  },
+  {
+    "id": "JM-0125",
+    "chiefdom": "Chief Sikufele",
+    "district": "Senanga",
+    "province": "Western",
+    "areaName": "Nchelenge Administrative Area",
+    "areaType": "Ward",
+    "headmanName": "Mr. William Chisenga",
+    "indunaName": "Induna Mwamba",
+    "boundaryCoordinates": [
+      {
+        "latitude": -16.1748,
+        "longitude": 23.3248
+      },
+      {
+        "latitude": -16.0906,
+        "longitude": 23.2406
+      },
+      {
+        "latitude": -16.1582,
+        "longitude": 23.3082
+      },
+      {
+        "latitude": -16.0939,
+        "longitude": 23.2439
+      },
+      {
+        "latitude": -16.1721,
+        "longitude": 23.3221
+      },
+      {
+        "latitude": -16.08,
+        "longitude": 23.23
+      }
+    ],
+    "areaSizeHectares": 15314,
+    "population": 7018,
+    "neighboringAreas": [
+      "Chilanga",
+      "Kalomo"
+    ],
+    "keyLandmarks": [
+      "Community Center",
+      "Hospital",
+      "Market"
+    ],
+    "accessRoads": "2 main roads",
+    "lastSurveyDate": "2024-08-31T15:00:30.930618"
+  }
+]

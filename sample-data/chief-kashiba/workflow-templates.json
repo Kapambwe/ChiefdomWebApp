@@ -1,0 +1,1629 @@
+[
+  {
+    "templateId": 1,
+    "templateName": "Pre-Application & Community Engagement",
+    "description": "Complete workflow for Pre-Application & Community Engagement in customary land conversion process",
+    "category": "PreApplication",
+    "processType": "PreApplicationProcessing",
+    "version": "1.0",
+    "canvas": {
+      "width": 2000,
+      "height": 800,
+      "zoom": 1.0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "gridSize": "20",
+      "showGrid": true,
+      "backgroundColor": "#f9fafb"
+    },
+    "nodes": [
+      {
+        "nodeId": "start-1",
+        "nodeType": "Start",
+        "label": "Application Submitted",
+        "description": "",
+        "position": {
+          "x": 100,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#10b981",
+          "borderColor": "#059669",
+          "textColor": "#ffffff",
+          "borderWidth": 2,
+          "shape": "circle",
+          "width": 100,
+          "height": 100
+        }
+      },
+      {
+        "nodeId": "task-1-1",
+        "nodeType": "Task",
+        "label": "Document Verification",
+        "description": "Verify all required documents",
+        "position": {
+          "x": 300,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#ffffff",
+          "borderColor": "#d1d5db",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        },
+        "configuration": {
+          "assignedRole": "LandOfficer"
+        }
+      },
+      {
+        "nodeId": "decision-1-1",
+        "nodeType": "Decision",
+        "label": "Documents Complete?",
+        "description": "",
+        "position": {
+          "x": 550,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#f59e0b",
+          "borderColor": "#d97706",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "diamond",
+          "width": 160,
+          "height": 100
+        }
+      },
+      {
+        "nodeId": "task-1-2",
+        "nodeType": "Task",
+        "label": "Request Missing Docs",
+        "description": "Send document request to applicant",
+        "position": {
+          "x": 550,
+          "y": 350
+        },
+        "style": {
+          "backgroundColor": "#ffffff",
+          "borderColor": "#d1d5db",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        },
+        "configuration": {
+          "slaHours": 48
+        }
+      },
+      {
+        "nodeId": "task-1-3",
+        "nodeType": "CommunityConsultation",
+        "label": "Community Meeting",
+        "description": "Conduct community consultation",
+        "position": {
+          "x": 800,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#06b6d4",
+          "borderColor": "#0891b2",
+          "textColor": "#ffffff",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        },
+        "configuration": {
+          "requiresCommunitySupport": true
+        }
+      },
+      {
+        "nodeId": "task-1-4",
+        "nodeType": "Task",
+        "label": "Site Walkthrough",
+        "description": "Conduct site inspection with headman",
+        "position": {
+          "x": 1050,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#ffffff",
+          "borderColor": "#d1d5db",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        }
+      },
+      {
+        "nodeId": "decision-1-2",
+        "nodeType": "Decision",
+        "label": "Community Objection?",
+        "description": "",
+        "position": {
+          "x": 1300,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#f59e0b",
+          "borderColor": "#d97706",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "diamond",
+          "width": 160,
+          "height": 100
+        }
+      },
+      {
+        "nodeId": "task-1-5",
+        "nodeType": "Task",
+        "label": "Resolve Objections",
+        "description": "Address community concerns",
+        "position": {
+          "x": 1300,
+          "y": 350
+        },
+        "style": {
+          "backgroundColor": "#ffffff",
+          "borderColor": "#d1d5db",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        }
+      },
+      {
+        "nodeId": "task-1-6",
+        "nodeType": "Task",
+        "label": "Prepare Assessment",
+        "description": "Prepare pre-application assessment",
+        "position": {
+          "x": 1550,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#ffffff",
+          "borderColor": "#d1d5db",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        }
+      },
+      {
+        "nodeId": "end-1",
+        "nodeType": "End",
+        "label": "Assessment Complete",
+        "description": "",
+        "position": {
+          "x": 1750,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#ef4444",
+          "borderColor": "#dc2626",
+          "textColor": "#ffffff",
+          "borderWidth": 2,
+          "shape": "circle",
+          "width": 100,
+          "height": 100
+        }
+      }
+    ],
+    "connections": [
+      {
+        "sourceNodeId": "start-1",
+        "targetNodeId": "task-1-1",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "task-1-1",
+        "targetNodeId": "decision-1-1",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "decision-1-1",
+        "targetNodeId": "task-1-3",
+        "label": "Yes",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "decision-1-1",
+        "targetNodeId": "task-1-2",
+        "label": "No",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "task-1-2",
+        "targetNodeId": "task-1-1",
+        "label": "Resubmit",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "task-1-3",
+        "targetNodeId": "task-1-4",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "task-1-4",
+        "targetNodeId": "decision-1-2",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "decision-1-2",
+        "targetNodeId": "task-1-6",
+        "label": "No",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "decision-1-2",
+        "targetNodeId": "task-1-5",
+        "label": "Yes",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "task-1-5",
+        "targetNodeId": "decision-1-2",
+        "label": "Resolved",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "task-1-6",
+        "targetNodeId": "end-1",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      }
+    ],
+    "isPublished": true,
+    "isActive": true,
+    "entityType": "PreApplicationModel",
+    "applicableStage": "Stage 1",
+    "requiresChiefConsent": false,
+    "requiresCommunityConsultation": true,
+    "requiresCouncilApproval": false,
+    "requiresSurveyorApproval": false,
+    "requiresEnvironmentalCheck": true,
+    "requiresLegalVetting": false,
+    "estimatedDaysToComplete": 14,
+    "applicableChiefdoms": [
+      "ALL"
+    ],
+    "applicableDistricts": [
+      "ALL"
+    ],
+    "tags": [
+      "preapplication",
+      "customary-land",
+      "workflow"
+    ],
+    "timesUsed": 245,
+    "averageCompletionDays": 12.3,
+    "successRate": 0.87,
+    "lastUsedDate": "2026-02-05T18:42:17.668607",
+    "createdDate": "2025-08-12T18:42:17.668623",
+    "createdBy": "System Administrator",
+    "modifiedDate": "2026-01-09T18:42:17.668627",
+    "modifiedBy": "Land Officer",
+    "publishedDate": "2025-09-11T18:42:17.668629",
+    "publishedBy": "System Administrator"
+  },
+  {
+    "templateId": 2,
+    "templateName": "Chief Consent & Traditional Council",
+    "description": "Complete workflow for Chief Consent & Traditional Council in customary land conversion process",
+    "category": "ChiefConsent",
+    "processType": "ChiefConsentProcessing",
+    "version": "1.0",
+    "canvas": {
+      "width": 2000,
+      "height": 800,
+      "zoom": 1.0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "gridSize": "20",
+      "showGrid": true,
+      "backgroundColor": "#f9fafb"
+    },
+    "nodes": [
+      {
+        "nodeId": "start-2",
+        "nodeType": "Start",
+        "label": "Pre-App Approved",
+        "description": "",
+        "position": {
+          "x": 100,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#10b981",
+          "borderColor": "#059669",
+          "textColor": "#ffffff",
+          "borderWidth": 2,
+          "shape": "circle",
+          "width": 100,
+          "height": 100
+        }
+      },
+      {
+        "nodeId": "task-2-1",
+        "nodeType": "Task",
+        "label": "Submit to Chief",
+        "description": "Forward application to chiefdom",
+        "position": {
+          "x": 300,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#ffffff",
+          "borderColor": "#d1d5db",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        }
+      },
+      {
+        "nodeId": "task-2-2",
+        "nodeType": "ChiefConsent",
+        "label": "Traditional Council Meeting",
+        "description": "Present to traditional council",
+        "position": {
+          "x": 550,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#8b5cf6",
+          "borderColor": "#7c3aed",
+          "textColor": "#ffffff",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        },
+        "configuration": {
+          "requiresTraditionalCouncil": true
+        }
+      },
+      {
+        "nodeId": "decision-2-1",
+        "nodeType": "Decision",
+        "label": "Chief's Decision",
+        "description": "",
+        "position": {
+          "x": 800,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#f59e0b",
+          "borderColor": "#d97706",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "diamond",
+          "width": 160,
+          "height": 100
+        }
+      },
+      {
+        "nodeId": "task-2-3",
+        "nodeType": "Task",
+        "label": "Issue Consent Letter",
+        "description": "Prepare chief consent letter",
+        "position": {
+          "x": 1050,
+          "y": 150
+        },
+        "style": {
+          "backgroundColor": "#ffffff",
+          "borderColor": "#d1d5db",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        }
+      },
+      {
+        "nodeId": "task-2-4",
+        "nodeType": "Task",
+        "label": "Provide Feedback",
+        "description": "Inform applicant of rejection",
+        "position": {
+          "x": 800,
+          "y": 350
+        },
+        "style": {
+          "backgroundColor": "#ffffff",
+          "borderColor": "#d1d5db",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        }
+      },
+      {
+        "nodeId": "task-2-5",
+        "nodeType": "Task",
+        "label": "Record Decision",
+        "description": "Record in chiefdom registry",
+        "position": {
+          "x": 1300,
+          "y": 150
+        },
+        "style": {
+          "backgroundColor": "#ffffff",
+          "borderColor": "#d1d5db",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        }
+      },
+      {
+        "nodeId": "end-2",
+        "nodeType": "End",
+        "label": "Consent Obtained",
+        "description": "",
+        "position": {
+          "x": 1500,
+          "y": 150
+        },
+        "style": {
+          "backgroundColor": "#ef4444",
+          "borderColor": "#dc2626",
+          "textColor": "#ffffff",
+          "borderWidth": 2,
+          "shape": "circle",
+          "width": 100,
+          "height": 100
+        }
+      }
+    ],
+    "connections": [
+      {
+        "sourceNodeId": "start-2",
+        "targetNodeId": "task-2-1",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "task-2-1",
+        "targetNodeId": "task-2-2",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "task-2-2",
+        "targetNodeId": "decision-2-1",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "decision-2-1",
+        "targetNodeId": "task-2-3",
+        "label": "Approved",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "decision-2-1",
+        "targetNodeId": "task-2-4",
+        "label": "Rejected",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "task-2-3",
+        "targetNodeId": "task-2-5",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "task-2-5",
+        "targetNodeId": "end-2",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      }
+    ],
+    "isPublished": true,
+    "isActive": true,
+    "entityType": "ChiefConsentModel",
+    "applicableStage": "Stage 2",
+    "requiresChiefConsent": true,
+    "requiresCommunityConsultation": false,
+    "requiresCouncilApproval": false,
+    "requiresSurveyorApproval": false,
+    "requiresEnvironmentalCheck": false,
+    "requiresLegalVetting": false,
+    "estimatedDaysToComplete": 21,
+    "applicableChiefdoms": [
+      "ALL"
+    ],
+    "applicableDistricts": [
+      "ALL"
+    ],
+    "tags": [
+      "chiefconsent",
+      "customary-land",
+      "workflow"
+    ],
+    "timesUsed": 198,
+    "averageCompletionDays": 18.7,
+    "successRate": 0.92,
+    "lastUsedDate": "2026-02-05T18:42:17.668659",
+    "createdDate": "2025-08-12T18:42:17.668664",
+    "createdBy": "System Administrator",
+    "modifiedDate": "2026-01-09T18:42:17.668667",
+    "modifiedBy": "Land Officer",
+    "publishedDate": "2025-09-11T18:42:17.668669",
+    "publishedBy": "System Administrator"
+  },
+  {
+    "templateId": 3,
+    "templateName": "Council Application & Approval",
+    "description": "Complete workflow for Council Application & Approval in customary land conversion process",
+    "category": "CouncilApproval",
+    "processType": "CouncilApprovalProcessing",
+    "version": "1.0",
+    "canvas": {
+      "width": 2000,
+      "height": 800,
+      "zoom": 1.0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "gridSize": "20",
+      "showGrid": true,
+      "backgroundColor": "#f9fafb"
+    },
+    "nodes": [
+      {
+        "nodeId": "start-3",
+        "nodeType": "Start",
+        "label": "Chief Consent Received",
+        "description": "",
+        "position": {
+          "x": 100,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#10b981",
+          "borderColor": "#059669",
+          "textColor": "#ffffff",
+          "borderWidth": 2,
+          "shape": "circle",
+          "width": 100,
+          "height": 100
+        }
+      },
+      {
+        "nodeId": "task-3-1",
+        "nodeType": "CouncilApproval",
+        "label": "Submit to Council",
+        "description": "Submit application to municipal council",
+        "position": {
+          "x": 300,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#3b82f6",
+          "borderColor": "#2563eb",
+          "textColor": "#ffffff",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        }
+      },
+      {
+        "nodeId": "task-3-2",
+        "nodeType": "Task",
+        "label": "Planning Officer Review",
+        "description": "Planning department review",
+        "position": {
+          "x": 550,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#ffffff",
+          "borderColor": "#d1d5db",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        }
+      },
+      {
+        "nodeId": "task-3-3",
+        "nodeType": "Task",
+        "label": "Site Inspection",
+        "description": "Council site inspection",
+        "position": {
+          "x": 800,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#ffffff",
+          "borderColor": "#d1d5db",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        }
+      },
+      {
+        "nodeId": "decision-3-1",
+        "nodeType": "Decision",
+        "label": "Meets Requirements?",
+        "description": "",
+        "position": {
+          "x": 1050,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#f59e0b",
+          "borderColor": "#d97706",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "diamond",
+          "width": 160,
+          "height": 100
+        }
+      },
+      {
+        "nodeId": "task-3-4",
+        "nodeType": "Task",
+        "label": "Request Corrections",
+        "description": "Request applicant corrections",
+        "position": {
+          "x": 1050,
+          "y": 350
+        },
+        "style": {
+          "backgroundColor": "#ffffff",
+          "borderColor": "#d1d5db",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        }
+      },
+      {
+        "nodeId": "task-3-5",
+        "nodeType": "Task",
+        "label": "Council Meeting",
+        "description": "Present to council board",
+        "position": {
+          "x": 1300,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#ffffff",
+          "borderColor": "#d1d5db",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        }
+      },
+      {
+        "nodeId": "task-3-6",
+        "nodeType": "Task",
+        "label": "Issue Resolution",
+        "description": "Issue council resolution",
+        "position": {
+          "x": 1550,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#ffffff",
+          "borderColor": "#d1d5db",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        }
+      },
+      {
+        "nodeId": "end-3",
+        "nodeType": "End",
+        "label": "Council Approved",
+        "description": "",
+        "position": {
+          "x": 1750,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#ef4444",
+          "borderColor": "#dc2626",
+          "textColor": "#ffffff",
+          "borderWidth": 2,
+          "shape": "circle",
+          "width": 100,
+          "height": 100
+        }
+      }
+    ],
+    "connections": [
+      {
+        "sourceNodeId": "start-3",
+        "targetNodeId": "task-3-1",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "task-3-1",
+        "targetNodeId": "task-3-2",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "task-3-2",
+        "targetNodeId": "task-3-3",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "task-3-3",
+        "targetNodeId": "decision-3-1",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "decision-3-1",
+        "targetNodeId": "task-3-5",
+        "label": "Yes",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "decision-3-1",
+        "targetNodeId": "task-3-4",
+        "label": "No",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "task-3-4",
+        "targetNodeId": "task-3-2",
+        "label": "Corrected",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "task-3-5",
+        "targetNodeId": "task-3-6",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "task-3-6",
+        "targetNodeId": "end-3",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      }
+    ],
+    "isPublished": true,
+    "isActive": true,
+    "entityType": "CouncilApprovalModel",
+    "applicableStage": "Stage 3",
+    "requiresChiefConsent": true,
+    "requiresCommunityConsultation": false,
+    "requiresCouncilApproval": true,
+    "requiresSurveyorApproval": false,
+    "requiresEnvironmentalCheck": false,
+    "requiresLegalVetting": false,
+    "estimatedDaysToComplete": 30,
+    "applicableChiefdoms": [
+      "ALL"
+    ],
+    "applicableDistricts": [
+      "ALL"
+    ],
+    "tags": [
+      "councilapproval",
+      "customary-land",
+      "workflow"
+    ],
+    "timesUsed": 167,
+    "averageCompletionDays": 28.5,
+    "successRate": 0.89,
+    "lastUsedDate": "2026-02-05T18:42:17.668695",
+    "createdDate": "2025-08-12T18:42:17.668699",
+    "createdBy": "System Administrator",
+    "modifiedDate": "2026-01-09T18:42:17.668701",
+    "modifiedBy": "Land Officer",
+    "publishedDate": "2025-09-11T18:42:17.668704",
+    "publishedBy": "System Administrator"
+  },
+  {
+    "templateId": 4,
+    "templateName": "Survey Instruction & Field Survey",
+    "description": "Complete workflow for Survey Instruction & Field Survey in customary land conversion process",
+    "category": "SurveyInstruction",
+    "processType": "SurveyProcessing",
+    "version": "1.0",
+    "canvas": {
+      "width": 2000,
+      "height": 800,
+      "zoom": 1.0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "gridSize": "20",
+      "showGrid": true,
+      "backgroundColor": "#f9fafb"
+    },
+    "nodes": [
+      {
+        "nodeId": "start-4",
+        "nodeType": "Start",
+        "label": "Start",
+        "description": "",
+        "position": {
+          "x": 100,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#10b981",
+          "borderColor": "#059669",
+          "textColor": "#ffffff",
+          "borderWidth": 2,
+          "shape": "circle",
+          "width": 100,
+          "height": 100
+        }
+      },
+      {
+        "nodeId": "task-4",
+        "nodeType": "Task",
+        "label": "Process",
+        "description": "Execute Survey Instruction & Field Survey",
+        "position": {
+          "x": 600,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#ffffff",
+          "borderColor": "#d1d5db",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        },
+        "configuration": {
+          "slaHours": 1080
+        }
+      },
+      {
+        "nodeId": "end-4",
+        "nodeType": "End",
+        "label": "Complete",
+        "description": "",
+        "position": {
+          "x": 1100,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#ef4444",
+          "borderColor": "#dc2626",
+          "textColor": "#ffffff",
+          "borderWidth": 2,
+          "shape": "circle",
+          "width": 100,
+          "height": 100
+        }
+      }
+    ],
+    "connections": [
+      {
+        "sourceNodeId": "start-4",
+        "targetNodeId": "task-4",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "task-4",
+        "targetNodeId": "end-4",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      }
+    ],
+    "isPublished": true,
+    "isActive": true,
+    "entityType": "SurveyInstructionModel",
+    "applicableStage": "Stage 4",
+    "requiresChiefConsent": true,
+    "requiresCommunityConsultation": false,
+    "requiresCouncilApproval": true,
+    "requiresSurveyorApproval": true,
+    "requiresEnvironmentalCheck": false,
+    "requiresLegalVetting": false,
+    "estimatedDaysToComplete": 45,
+    "applicableChiefdoms": [
+      "ALL"
+    ],
+    "applicableDistricts": [
+      "ALL"
+    ],
+    "tags": [
+      "surveyinstruction",
+      "customary-land",
+      "workflow"
+    ],
+    "timesUsed": 134,
+    "averageCompletionDays": 42.8,
+    "successRate": 0.91,
+    "lastUsedDate": "2026-02-05T18:42:17.668722",
+    "createdDate": "2025-08-12T18:42:17.668729",
+    "createdBy": "System Administrator",
+    "modifiedDate": "2026-01-09T18:42:17.668732",
+    "modifiedBy": "Land Officer",
+    "publishedDate": "2025-09-11T18:42:17.668735",
+    "publishedBy": "System Administrator"
+  },
+  {
+    "templateId": 5,
+    "templateName": "Lease Application Processing",
+    "description": "Complete workflow for Lease Application Processing in customary land conversion process",
+    "category": "LeaseApplication",
+    "processType": "LeaseProcessing",
+    "version": "1.0",
+    "canvas": {
+      "width": 2000,
+      "height": 800,
+      "zoom": 1.0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "gridSize": "20",
+      "showGrid": true,
+      "backgroundColor": "#f9fafb"
+    },
+    "nodes": [
+      {
+        "nodeId": "start-5",
+        "nodeType": "Start",
+        "label": "Start",
+        "description": "",
+        "position": {
+          "x": 100,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#10b981",
+          "borderColor": "#059669",
+          "textColor": "#ffffff",
+          "borderWidth": 2,
+          "shape": "circle",
+          "width": 100,
+          "height": 100
+        }
+      },
+      {
+        "nodeId": "task-5",
+        "nodeType": "Task",
+        "label": "Process",
+        "description": "Execute Lease Application Processing",
+        "position": {
+          "x": 600,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#ffffff",
+          "borderColor": "#d1d5db",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        },
+        "configuration": {
+          "slaHours": 480
+        }
+      },
+      {
+        "nodeId": "end-5",
+        "nodeType": "End",
+        "label": "Complete",
+        "description": "",
+        "position": {
+          "x": 1100,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#ef4444",
+          "borderColor": "#dc2626",
+          "textColor": "#ffffff",
+          "borderWidth": 2,
+          "shape": "circle",
+          "width": 100,
+          "height": 100
+        }
+      }
+    ],
+    "connections": [
+      {
+        "sourceNodeId": "start-5",
+        "targetNodeId": "task-5",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "task-5",
+        "targetNodeId": "end-5",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      }
+    ],
+    "isPublished": true,
+    "isActive": true,
+    "entityType": "LeaseApplicationModel",
+    "applicableStage": "Stage 5",
+    "requiresChiefConsent": true,
+    "requiresCommunityConsultation": false,
+    "requiresCouncilApproval": true,
+    "requiresSurveyorApproval": true,
+    "requiresEnvironmentalCheck": false,
+    "requiresLegalVetting": false,
+    "estimatedDaysToComplete": 20,
+    "applicableChiefdoms": [
+      "ALL"
+    ],
+    "applicableDistricts": [
+      "ALL"
+    ],
+    "tags": [
+      "leaseapplication",
+      "customary-land",
+      "workflow"
+    ],
+    "timesUsed": 98,
+    "averageCompletionDays": 18.2,
+    "successRate": 0.94,
+    "lastUsedDate": "2026-02-05T18:42:17.668758",
+    "createdDate": "2025-08-12T18:42:17.668760",
+    "createdBy": "System Administrator",
+    "modifiedDate": "2026-01-09T18:42:17.668762",
+    "modifiedBy": "Land Officer",
+    "publishedDate": "2025-09-11T18:42:17.668763",
+    "publishedBy": "System Administrator"
+  },
+  {
+    "templateId": 6,
+    "templateName": "Technical Vetting - Multi-Department",
+    "description": "Complete workflow for Technical Vetting - Multi-Department in customary land conversion process",
+    "category": "TechnicalVetting",
+    "processType": "VettingProcessing",
+    "version": "1.0",
+    "canvas": {
+      "width": 2000,
+      "height": 800,
+      "zoom": 1.0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "gridSize": "20",
+      "showGrid": true,
+      "backgroundColor": "#f9fafb"
+    },
+    "nodes": [
+      {
+        "nodeId": "start-6",
+        "nodeType": "Start",
+        "label": "Start",
+        "description": "",
+        "position": {
+          "x": 100,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#10b981",
+          "borderColor": "#059669",
+          "textColor": "#ffffff",
+          "borderWidth": 2,
+          "shape": "circle",
+          "width": 100,
+          "height": 100
+        }
+      },
+      {
+        "nodeId": "task-6",
+        "nodeType": "Task",
+        "label": "Process",
+        "description": "Execute Technical Vetting - Multi-Department",
+        "position": {
+          "x": 600,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#ffffff",
+          "borderColor": "#d1d5db",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        },
+        "configuration": {
+          "slaHours": 840
+        }
+      },
+      {
+        "nodeId": "end-6",
+        "nodeType": "End",
+        "label": "Complete",
+        "description": "",
+        "position": {
+          "x": 1100,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#ef4444",
+          "borderColor": "#dc2626",
+          "textColor": "#ffffff",
+          "borderWidth": 2,
+          "shape": "circle",
+          "width": 100,
+          "height": 100
+        }
+      }
+    ],
+    "connections": [
+      {
+        "sourceNodeId": "start-6",
+        "targetNodeId": "task-6",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "task-6",
+        "targetNodeId": "end-6",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      }
+    ],
+    "isPublished": true,
+    "isActive": true,
+    "entityType": "TechnicalVettingModel",
+    "applicableStage": "Stage 6",
+    "requiresChiefConsent": true,
+    "requiresCommunityConsultation": false,
+    "requiresCouncilApproval": true,
+    "requiresSurveyorApproval": true,
+    "requiresEnvironmentalCheck": false,
+    "requiresLegalVetting": true,
+    "estimatedDaysToComplete": 35,
+    "applicableChiefdoms": [
+      "ALL"
+    ],
+    "applicableDistricts": [
+      "ALL"
+    ],
+    "tags": [
+      "technicalvetting",
+      "customary-land",
+      "workflow"
+    ],
+    "timesUsed": 76,
+    "averageCompletionDays": 32.1,
+    "successRate": 0.88,
+    "lastUsedDate": "2026-02-05T18:42:17.668772",
+    "createdDate": "2025-08-12T18:42:17.668774",
+    "createdBy": "System Administrator",
+    "modifiedDate": "2026-01-09T18:42:17.668776",
+    "modifiedBy": "Land Officer",
+    "publishedDate": "2025-09-11T18:42:17.668777",
+    "publishedBy": "System Administrator"
+  },
+  {
+    "templateId": 7,
+    "templateName": "Offer Letter Generation & Payment",
+    "description": "Complete workflow for Offer Letter Generation & Payment in customary land conversion process",
+    "category": "OfferLetterAndPayment",
+    "processType": "OfferLetterProcessing",
+    "version": "1.0",
+    "canvas": {
+      "width": 2000,
+      "height": 800,
+      "zoom": 1.0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "gridSize": "20",
+      "showGrid": true,
+      "backgroundColor": "#f9fafb"
+    },
+    "nodes": [
+      {
+        "nodeId": "start-7",
+        "nodeType": "Start",
+        "label": "Start",
+        "description": "",
+        "position": {
+          "x": 100,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#10b981",
+          "borderColor": "#059669",
+          "textColor": "#ffffff",
+          "borderWidth": 2,
+          "shape": "circle",
+          "width": 100,
+          "height": 100
+        }
+      },
+      {
+        "nodeId": "task-7",
+        "nodeType": "Task",
+        "label": "Process",
+        "description": "Execute Offer Letter Generation & Payment",
+        "position": {
+          "x": 600,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#ffffff",
+          "borderColor": "#d1d5db",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        },
+        "configuration": {
+          "slaHours": 360
+        }
+      },
+      {
+        "nodeId": "end-7",
+        "nodeType": "End",
+        "label": "Complete",
+        "description": "",
+        "position": {
+          "x": 1100,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#ef4444",
+          "borderColor": "#dc2626",
+          "textColor": "#ffffff",
+          "borderWidth": 2,
+          "shape": "circle",
+          "width": 100,
+          "height": 100
+        }
+      }
+    ],
+    "connections": [
+      {
+        "sourceNodeId": "start-7",
+        "targetNodeId": "task-7",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "task-7",
+        "targetNodeId": "end-7",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      }
+    ],
+    "isPublished": true,
+    "isActive": true,
+    "entityType": "OfferLetterAndPaymentModel",
+    "applicableStage": "Stage 7",
+    "requiresChiefConsent": true,
+    "requiresCommunityConsultation": false,
+    "requiresCouncilApproval": true,
+    "requiresSurveyorApproval": true,
+    "requiresEnvironmentalCheck": false,
+    "requiresLegalVetting": true,
+    "estimatedDaysToComplete": 15,
+    "applicableChiefdoms": [
+      "ALL"
+    ],
+    "applicableDistricts": [
+      "ALL"
+    ],
+    "tags": [
+      "offerletterandpayment",
+      "customary-land",
+      "workflow"
+    ],
+    "timesUsed": 65,
+    "averageCompletionDays": 13.8,
+    "successRate": 0.96,
+    "lastUsedDate": "2026-02-05T18:42:17.668788",
+    "createdDate": "2025-08-12T18:42:17.668790",
+    "createdBy": "System Administrator",
+    "modifiedDate": "2026-01-09T18:42:17.668791",
+    "modifiedBy": "Land Officer",
+    "publishedDate": "2025-09-11T18:42:17.668793",
+    "publishedBy": "System Administrator"
+  },
+  {
+    "templateId": 8,
+    "templateName": "Lease Agreement Preparation & Execution",
+    "description": "Complete workflow for Lease Agreement Preparation & Execution in customary land conversion process",
+    "category": "LeaseExecution",
+    "processType": "LeaseExecutionProcessing",
+    "version": "1.0",
+    "canvas": {
+      "width": 2000,
+      "height": 800,
+      "zoom": 1.0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "gridSize": "20",
+      "showGrid": true,
+      "backgroundColor": "#f9fafb"
+    },
+    "nodes": [
+      {
+        "nodeId": "start-8",
+        "nodeType": "Start",
+        "label": "Start",
+        "description": "",
+        "position": {
+          "x": 100,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#10b981",
+          "borderColor": "#059669",
+          "textColor": "#ffffff",
+          "borderWidth": 2,
+          "shape": "circle",
+          "width": 100,
+          "height": 100
+        }
+      },
+      {
+        "nodeId": "task-8",
+        "nodeType": "Task",
+        "label": "Process",
+        "description": "Execute Lease Agreement Preparation & Execution",
+        "position": {
+          "x": 600,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#ffffff",
+          "borderColor": "#d1d5db",
+          "textColor": "#111827",
+          "borderWidth": 2,
+          "shape": "rectangle",
+          "width": 180,
+          "height": 80
+        },
+        "configuration": {
+          "slaHours": 600
+        }
+      },
+      {
+        "nodeId": "end-8",
+        "nodeType": "End",
+        "label": "Complete",
+        "description": "",
+        "position": {
+          "x": 1100,
+          "y": 200
+        },
+        "style": {
+          "backgroundColor": "#ef4444",
+          "borderColor": "#dc2626",
+          "textColor": "#ffffff",
+          "borderWidth": 2,
+          "shape": "circle",
+          "width": 100,
+          "height": 100
+        }
+      }
+    ],
+    "connections": [
+      {
+        "sourceNodeId": "start-8",
+        "targetNodeId": "task-8",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      },
+      {
+        "sourceNodeId": "task-8",
+        "targetNodeId": "end-8",
+        "label": "",
+        "style": {
+          "strokeColor": "#6b7280",
+          "strokeWidth": 2,
+          "strokeStyle": "solid"
+        }
+      }
+    ],
+    "isPublished": true,
+    "isActive": true,
+    "entityType": "LeaseExecutionModel",
+    "applicableStage": "Stage 8",
+    "requiresChiefConsent": true,
+    "requiresCommunityConsultation": false,
+    "requiresCouncilApproval": true,
+    "requiresSurveyorApproval": true,
+    "requiresEnvironmentalCheck": false,
+    "requiresLegalVetting": true,
+    "estimatedDaysToComplete": 25,
+    "applicableChiefdoms": [
+      "ALL"
+    ],
+    "applicableDistricts": [
+      "ALL"
+    ],
+    "tags": [
+      "leaseexecution",
+      "customary-land",
+      "workflow"
+    ],
+    "timesUsed": 52,
+    "averageCompletionDays": 23.4,
+    "successRate": 0.98,
+    "lastUsedDate": "2026-02-05T18:42:17.668806",
+    "createdDate": "2025-08-12T18:42:17.668808",
+    "createdBy": "System Administrator",
+    "modifiedDate": "2026-01-09T18:42:17.668810",
+    "modifiedBy": "Land Officer",
+    "publishedDate": "2025-09-11T18:42:17.668811",
+    "publishedBy": "System Administrator"
+  }
+]
